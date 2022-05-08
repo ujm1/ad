@@ -1,0 +1,222 @@
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:first-child > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(2) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(2) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(3) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(3) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(4) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(4) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(5) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(5) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(6) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(6) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(7) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(7) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(8) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(8) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(9) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(9) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(10) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(10) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(11) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(11) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(12) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(12) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(13) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(13) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(15) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(15) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(14) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(14) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child > span.oi.oi-data-transfer-download
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(14) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(16) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:first-child
+hiyobi.me###root > div.container:last-child > div.sc-iqHYGH.hSaKRS.row:nth-child(16) > div.col-sm-12.col-md-9.p-1.pl-md-4.d-flex:nth-child(2) > div.sc-bqyKva.ehfErK:last-child > div.sc-kstrdz.btjemE:last-child
+hiyobi.me###root > div.fullscreen:nth-child(6) > div.sc-idOhPF.dhgXgz:last-child
+melon.com###conts > div.ms_wrap_cont > div.recnt_musictoday:nth-child(5) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:first-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:nth-child(2) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:nth-child(3) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:nth-child(4) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:last-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###divSongList_25 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###divSongList_19 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###divSongList_13 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###divSongList_7 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:first-child > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(2) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(4) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(5) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(6) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(7) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(8) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(9) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(10) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:last-child > td.t_left:nth-child(6)
+melon.com###divSongList_29 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:last-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(9) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(8) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(7) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(6) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(5) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(4) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(3) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(2) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:first-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###divSongList_4 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:first-child > td.t_left:nth-child(6)
+melon.com###divSongList_4 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(2) > td.t_left:nth-child(6)
+melon.com###divSongList_4 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
+melon.com###divSongList_4 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:last-child > td.t_left:nth-child(6)
+melon.com###divSongList_4 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###d_like_count
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:first-child > td.t_left:nth-child(6) > div.wrap.right_none
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(2) > td.t_left:nth-child(6) > div.wrap.right_none
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(4) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(5) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(6) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(7) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(8) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(9) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:last-child > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:first-child > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(2) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(4) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(5) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(7) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(8) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(10) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(11) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(12) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(13) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(14) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:last-child > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(6) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(9) > td.t_left:nth-child(6)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-sgpdfd:first-child > div.css-knfhfe > div.css-1ydjg2i:last-child > div.countInfoBox.css-1lmggoi:nth-child(2) > div.css-bvpmim:first-child > div.css-fjzm5m:last-child
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-sgpdfd:first-child > div.css-knfhfe > div.css-1ydjg2i:last-child > div.countInfoBox.css-1lmggoi:nth-child(2) > div.css-11vmqkl:last-child > div.css-12ymafv:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:first-child > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:nth-child(2) > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:nth-child(3) > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:last-child > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:nth-child(5) > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child > div.css-rohcl > div.css-16slecq:first-child
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child
+
+comic.naver.com##.off.u_likeit_btn
+comic.naver.com##div.asideBox:nth-of-type(4)
+comic.naver.com##div.asideBox:nth-of-type(5)
+||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
+comic.naver.com##.tit_area > .vote_lst
+comic.naver.com###sectionContWide > .vote_lst
+||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
+comic.naver.com##div.asideBox:nth-of-type(1)
+||comic.naver.com/comment/comment$subdocument
+comic.naver.com##.on.u_likeit_btn
+comic.naver.com##.u_cnt
+series.naver.com###cbox_module > div.u_cbox_wrap.u_cbox_ko.u_cbox_type_sort_best
+series.naver.com###container > div.aside.NE\=a\:cmi:first-child > div.aside_air:nth-child(5)
+series.naver.com###container > div.content_wrap:nth-child(3) > div.aside:last-child > div.bstop10.NE\=a\:rtp:last-child
+
+! 2022-03-28 https://www.youtube.com
+www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
+www.youtube.com###owner-sub-count
+www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
+www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
+www.youtube.com###subscriber-count
+www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
+
+webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
+
+! 2022-04-03 https://page.kakao.com
+page.kakao.com##.css-17v86ak > .css-ifcwub > .css-1c1ahuy.text-ellipsis
+page.kakao.com##.css-j3o65g
+page.kakao.com##.css-ge8e1s > .css-ifcwub > .css-1c1ahuy.text-ellipsis
+page.kakao.com##.css-qm6qod > .css-ifcwub > .css-1c1ahuy.text-ellipsis
+page.kakao.com###root > div.jsx-3157985592.mainContents.mainContents_pc:nth-child(3) > div.jsx-1520785802.contents.contents_pc:last-child > div.css-1cweefb:nth-child(5)
+
+! 2022-04-05 https://www.youtube.com
+www.youtube.com###subscribers
+
+! 2022-04-05 https://namu.wiki
+namu.wiki##.has-tooltip
+
+! 2022-05-01 https://webtoon.kakao.com
+||kr-a.kakaopagecdn.com/web/static/viewer/icon-good-light-938316084ac954b3806bc18c8432dd0b.svg$image
+webtoon.kakao.com##.lg\:px-0.px-20.overflow-hidden.justify-center.h-\[184px\].flex.relative
+
+! 2022-05-01 https://comic.naver.com
+comic.naver.com###ppl_image_section
+
+! 2022-05-01 https://manatoki130.net
+manatoki130.net###main-banner-view
+manatoki130.net###hqsvfipbtumgoeclkrdjn
+manatoki130.net###id_mbv
+manatoki130.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div > .board-tail-banner
+manatoki130.net##article > .row-10.row.basic-banner
+
+! 2022-05-01 https://newtoki130.com
+newtoki130.com##.col-sm-9.col-md-9.col-15
+newtoki130.com###drjwivqfslkngxpmhecuto
+newtoki130.com##div.col-xs-6.col-sm-3.col-md-3.col-15 > .main-box > .miso-post-list > .post-wrap > .post-list > li.post-row > .ellipsis > .font-12.gray.pull-right > .orangered.count
+newtoki130.com##div.hidden-xs.col-sm-4.col-md-3.col-15:nth-of-type(2)
+newtoki130.com##div.hidden-xs.col-sm-4.col-md-3.col-15:nth-of-type(3)
+newtoki130.com###ugvrqdnjhcpteloiskmf
+newtoki130.com##div.col-sm-4.col-md-3.col-15:nth-of-type(4)
+newtoki130.com##div.col-sm-4.col-md-3.col-15:nth-of-type(1)
+newtoki130.com##div.row-15.row:nth-of-type(3)
+newtoki130.com###main-banner-view
+newtoki130.com##.col-sm-3.col-md-3.col-15 > div > .board-tail-banner
+newtoki130.com###sxjwhgmkitnqroezpvyflu
+newtoki130.com##tr
+newtoki130.com##.hidden-xs.orangered.count
+newtoki130.com###viewcomment
+newtoki130.com##li.list-item > .hidden-xs.wr-star
+newtoki130.com##.border-black.div-head > .hidden-xs.wr-star
+newtoki130.com##.border-black.div-head > .hidden-xs.wr-good
+newtoki130.com##li.list-item > .hidden-xs.wr-good
+newtoki130.com###hjkrouqevlgniptswfm
+newtoki130.com##.view-good-box.print-hide
+newtoki130.com##div > .row-10.row.basic-banner
+newtoki130.com###gfeusjhibqdkmlctrnpo
+newtoki130.com##article > .row-10.row.basic-banner
+
+! 2022-05-01 https://manatoki130.net
+manatoki130.net##.active.tab-pane > .miso-post-list
+manatoki130.net##.widget-side-line > div.row-15.row
+manatoki130.net##div.row-15.row > .board-tail-banner
+manatoki130.net##div > .row-10.row.basic-banner
+
+! 2022-05-01 https://toonkor106.com
+toonkor106.com##.mobile-banner.col-md-12
+toonkor106.com##.section-item-addon > .pull-right
+toonkor106.com##.bnt.bn
+toonkor106.com##.view_ma1 > .web_list > tbody
+toonkor106.com###nav_fin
+toonkor106.com##td.bt_btns:nth-of-type(4)
+toonkor106.com##[href^="http://po-aa.com/"]
+toonkor106.com##div.hidden-xs.text-center:nth-of-type(5)
+toonkor106.com##div.hidden-xs.text-center:nth-of-type(7)
+
+! 2022-05-02 http://www.11toon41.com
+www.11toon41.com##.m-new-year
+www.11toon41.com##.popups
+www.11toon41.com###top-banner
+www.11toon41.com##.hero
+www.11toon41.com##section.comicSection.curationHot:nth-of-type(2)
+www.11toon41.com##[href="http://wn-xg.com/"]
+www.11toon41.com##li:nth-of-type(2)
+www.11toon41.com##[href="http://www.wb-tt.com/"]
+www.11toon41.com##.episode-side__item.mobile-hide.product-banner
+www.11toon41.com###contents-wrapper > div.ad720_90.mobile-m
+
+! 2022-05-02 https://marumaru256.com
+marumaru256.com##.w_banner.row
+marumaru256.com##.at-side.at-col.col-md-3
+
+! 2022-05-05 https://www.youtube.com
+www.youtube.com##.ytp-videowall-still-info-author
+www.youtube.com##.style-default-active.ytd-toggle-button-renderer.style-scope
+
+
