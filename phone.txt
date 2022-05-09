@@ -1,0 +1,86 @@
+www.youtube.com##.ytp-videowall-still-info-author
+g.tivan.naver.com##
+m.naver.com##.MM_DA_SMARTCHANNEL.id_smartchannel.id_nmap.grid1
+
+m.naver.com##.id_search.wrap > .id_nmap
+m.naver.com##.id_comp_now_player.grid1
+m.naver.com##.cp_channel_list
+m.naver.com##div.id_comp_sports.grid1:nth-of-type(6)
+
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.top_banner.clearfix.row > table > tbody > tr > td
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.mobile-banner.col-md-12
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.section-item-addon > .pull-right
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.text-center.col-md-12 > div
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.bt_view2 > tbody > tr > td > table > tbody > tr > td.bt_btns > .btn2
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.bt_view2 > tbody > tr > td > table > tbody > tr > td.bt_btns > .btn1
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.bnt.bn
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.view_ma1 > .web_list > tbody
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com###nav_fin
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##[href^="http://po-aa.com/"]
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.visible-xs.text-center:nth-of-type(9)
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.visible-xs.text-center:nth-of-type(7)
+
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###main-banner-view
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.row-15.row:nth-of-type(3)
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###ptsihwrlojdgmvefukqn
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##.tab-content
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##.nav-tabs.nav
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###id_mbv
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.row-15.row > .board-tail-banner
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###qhtwnujyolbrdkxifgczsvpem > a[href^="https://manatoki130.net/bbs/linkbn.php"]
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##article > .row-10.row.basic-banner
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div > .row-10.row.basic-banner
+
+marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.w_banner.row
+marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.bottom-navbar
+
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.talk-cont
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com###top-banner
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.popups
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400_100:nth-of-type(3)
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400_100:nth-of-type(4)
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400_100:nth-of-type(5)
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.hero__item:nth-of-type(6)
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.j_slideLists.hero__list
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400__100.mobile-m:nth-of-type(3)
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400__100.mobile-m:nth-of-type(4)
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.idle.scroll-control.viewer-list > .ad400__100.mobile-m
+www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##section.comicSection.curationHot:nth-of-type(2)
+
+m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
+m.youtube.com##.slim-owner-bylines > .subhead
+m.youtube.com##ytm-slim-metadata-toggle-button-renderer > .compact.button-renderer > .c3-material-button-button > .cbox > .button-renderer-text
+m.youtube.com##.secondary-text > .formatted-string-text
+m.youtube.com##.secondary-text.c4-tabbed-header-subscriber-count
+m.youtube.com##div.small-text.compact-media-item-stats:nth-of-type(1)
+m.youtube.com##.small-text.compact-media-item-stats
+m.youtube.com##span.text-info:nth-of-type(2)
+m.youtube.com##strong
+m.youtube.com##.formatted-string-text
+
+namu.wiki##.has-tooltip
+namu.wiki##.eEoUoAJG
+namu.wiki###c228498821
+namu.wiki##.nA0VsxJ1
+
+mlbpark.donga.com##.addDsp > center
+mlbpark.donga.com###wrap > .addDsp
+mlbpark.donga.com###wrap > .ad_con01
+mlbpark.donga.com##.mid_con.ad_con01
+mlbpark.donga.com##.text2
+mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .views
+mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .replycont
+
+m.dcinside.com##.up-add
+m.dcinside.com##.gall-detail-lnktb > .rt
+
+m.naver.com##div.id_comp_sports.grid1 > .comp_sports.comp_common
+
+tv.kakao.com#@##adBlockPixelTag
+tv.kakao.com#@#.banner_ad
+t1.daumcdn.net/*kakaoad*
+play-tv.kakao.com#@##adBlockPixelTag
+play-tv.kakao.com#@#.banner_ad
+@@webid.ad.daum.net/sync?v=0.0.1
+@@videoads.kakao.com/adserver/api/v2/vmap
