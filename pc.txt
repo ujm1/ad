@@ -181,4 +181,10 @@ marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,
 www.youtube.com##.ytp-videowall-still-info-author
 www.youtube.com##.style-default-active.ytd-toggle-button-renderer.style-scope
 
-
+tv.kakao.com#@##adBlockPixelTag
+tv.kakao.com#@#.banner_ad
+t1.daumcdn.net/*kakaoad*
+play-tv.kakao.com#@##adBlockPixelTag
+play-tv.kakao.com#@#.banner_ad
+@@webid.ad.daum.net/sync?v=0.0.1
+@@videoads.kakao.com/adserver/api/v2/vmap
