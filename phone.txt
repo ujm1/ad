@@ -31,6 +31,10 @@ manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,
 manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
 manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##article > .row-10.row.basic-banner
 manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div > .row-10.row.basic-banner
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##.post-info.pull-right .count
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##[href] > span.count
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##body > div:nth-of-type(4) > div
+
 
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.w_banner.row
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.bottom-navbar
