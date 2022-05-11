@@ -144,10 +144,15 @@ newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newto
 
 ! 2022-05-01 https://manatoki130.net
 manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###main-banner-view
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###hqsvfipbtumgoeclkrdjn
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.row-15.row:nth-of-type(3)
 manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###id_mbv
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div > .board-tail-banner
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##.post-info.pull-right .count
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##[href] > span.count
 manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##article > .row-10.row.basic-banner
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div > .row-10.row.basic-banner
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.nett##.view-good-box.print-hide
+manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.row-15.row > .board-tail-banner
 
 
 ! 2022-05-01 https://toonkor106.com
@@ -162,16 +167,16 @@ toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonk
 toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(7)
 
 ! 2022-05-02 http://www.11toon41.com
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.m-new-year
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.popups
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com###top-banner
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.hero
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##section.comicSection.curationHot:nth-of-type(2)
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##[href="http://wn-xg.com/"]
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##li:nth-of-type(2)
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##[href="http://www.wb-tt.com/"]
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.episode-side__item.mobile-hide.product-banner
-www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com###contents-wrapper > div.ad720_90.mobile-m
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.m-new-year
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.popups
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com###top-banner
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.hero
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##section.comicSection.curationHot:nth-of-type(2)
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##[href="http://wn-xg.com/"]
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##li:nth-of-type(2)
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##[href="http://www.wb-tt.com/"]
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.episode-side__item.mobile-hide.product-banner
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com###contents-wrapper > div.ad720_90.mobile-m
 
 ! 2022-05-02 https://marumaru256.com
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.w_banner.row
