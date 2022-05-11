@@ -143,16 +143,16 @@ newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newto
 newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##article > .row-10.row.basic-banner
 
 ! 2022-05-01 https://manatoki130.net
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###main-banner-view
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.row-15.row:nth-of-type(3)
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net###id_mbv
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##.post-info.pull-right .count
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##[href] > span.count
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##article > .row-10.row.basic-banner
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div > .row-10.row.basic-banner
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.nett##.view-good-box.print-hide
-manatoki130.net,manatoko131.net,manatoko132.net,manatoko133.net,manatoko134.net,manatoko135.net,manatoko136.net,manatoko137.net,manatoko138.net,manatoko139.net##div.row-15.row > .board-tail-banner
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net###main-banner-view
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div.row-15.row:nth-of-type(3)
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net###id_mbv
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.post-info.pull-right .count
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##[href] > span.count
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##article > .row-10.row.basic-banner
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div > .row-10.row.basic-banner
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.view-good-box.print-hide
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div.row-15.row > .board-tail-banner
 
 
 ! 2022-05-01 https://toonkor106.com
