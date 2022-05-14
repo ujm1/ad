@@ -193,3 +193,30 @@ play-tv.kakao.com#@##adBlockPixelTag
 play-tv.kakao.com#@#.banner_ad
 @@webid.ad.daum.net/sync?v=0.0.1
 @@videoads.kakao.com/adserver/api/v2/vmap
+
+! 2022-05-14 https://www.naver.com
+www.naver.com###rollingboard_container
+
+! 2022-05-14 https://noonoo.tv
+noonoo.tv###container > .partner-banner-wrap
+noonoo.tv##.swiper-slide-active.swiper-slide > .flex-rolling > li > .posted-info > .like
+noonoo.tv##.swiper-slide-active.swiper-slide > .flex-rolling > li > .posted-info > .like
+noonoo.tv##.view-comment-area
+noonoo.tv###good_button
+noonoo.tv##.view-content > .partner-banner-wrap > .partner-banner-content
+
+! 2022-05-14 https://hiyobi.me
+hiyobi.me##div.xoVcG.sc-kDTinF:nth-of-type(2)
+hiyobi.me##.jSapbz.sc-eCImPb
+hiyobi.me##.bgpIqq.sc-hBUSln
+
+! 2022-05-14 https://www.dcinside.com
+www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
+www.dcinside.com##.p_2.typet_list > li > .main_log > .besttxt.box > .num
+www.dcinside.com##.p_3.typet_list > li > .main_log > .besttxt.box > .num
+
+! 2022-05-14 https://gall.dcinside.com
+gall.dcinside.com##tr.us-post.ub-content > .ub-word.gall_tit > .reply_numbox > .reply_num
+gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
+gall.dcinside.com###kakao_ad_LZlY3d > .adfit__html-banner
+
