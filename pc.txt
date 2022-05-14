@@ -220,3 +220,18 @@ gall.dcinside.com##tr.us-post.ub-content > .ub-word.gall_tit > .reply_numbox > .
 gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
 gall.dcinside.com###kakao_ad_LZlY3d > .adfit__html-banner
 
+! 2022-05-14 https://namu.wiki
+namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/top_0__container__
+namu.wiki##.kB6doRLP
+namu.wiki###RyNVEvIUV
+namu.wiki###YLzAUnEab
+namu.wiki##.kFIuvdjX
+
+! 2022-05-14 https://comic.naver.com
+||naverwebtoon-phinf.pstatic.net/20220418_182/1650266281616T3Kgt_JPEG/upload_4495992003248932035.JPEG$image
+comic.naver.com###onlyRightAd
+comic.naver.com##.band_banner
+comic.naver.com##.new_comic
+comic.naver.com###footer
+comic.naver.com##.ad_banner_premium
+
