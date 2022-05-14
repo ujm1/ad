@@ -69,6 +69,8 @@ namu.wiki##.has-tooltip
 namu.wiki##.eEoUoAJG
 namu.wiki###c228498821
 namu.wiki##.nA0VsxJ1
+namu.wiki##.kB6doRLP
+namu.wiki##.eKA63clJ
 
 mlbpark.donga.com##.addDsp > center
 mlbpark.donga.com###wrap > .addDsp
