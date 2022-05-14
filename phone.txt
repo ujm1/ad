@@ -34,6 +34,8 @@ manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.post-info.pull-right .count
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##[href] > span.count
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##body > div:nth-of-type(4) > div
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.trans-bg-black.ellipsis.in-subject > .pull-right
+
 
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.w_banner.row
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.bottom-navbar
@@ -83,6 +85,30 @@ m.dcinside.com##.dori-icon-txt
 m.dcinside.com##.dori-icon.sp-icon
 m.dcinside.com##.num
 ||nstatic.dcinside.com/dc/logo_day/logo_dc2X_rina_5.gif$image
+m.dcinside.com##.dori-box
+m.dcinside.com##.dori-icon-txt
+m.dcinside.com##.dori-icon.sp-icon
+m.dcinside.com##.gall-thum-btm-inner > .ginfo2 > li
+m.dcinside.com###listthum2 .rt > .ct
+m.dcinside.com##li:nth-of-type(4)
+m.dcinside.com###listthum3 > li > .rt > .ct
+m.dcinside.com###nonrecomm_btn
+m.dcinside.com##.ct-box > .ct
+||nstatic.dcinside.com/dc/m/img/sp/sp_nick.png?ver180827$image
+m.dcinside.com##.thum-txtin > div > .adv-groupin
+m.dcinside.com##.gall-thum-btm-inner > .adv-groupin
+m.dcinside.com##.tit > .ct
+m.dcinside.com##.lt > .ct
+m.dcinside.com##.adv-grouptop
+m.dcinside.com##section.clkhigh.grid > .adv-group
+m.dcinside.com###div_adnmore_area
+
+! 2022-05-14 http://gltv24.com
+gltv24.com###addon-popup-layer
+gltv24.com##div.xe-widget-wrapper > div > div
+gltv24.com##[href="http://gltv24.com/cs_center/7068495"]
+gltv24.com##p > [href="http://btr-vip.com/"]
+gltv24.com##.logo > [href="http://gltv24.com/"]
 
 tv.kakao.com#@##adBlockPixelTag
 tv.kakao.com#@#.banner_ad
