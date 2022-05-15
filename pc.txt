@@ -93,6 +93,7 @@ www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
 www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
 www.youtube.com###subscriber-count
 www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
+www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
 
 webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
 
@@ -235,4 +236,12 @@ comic.naver.com##.band_banner
 comic.naver.com##.new_comic
 comic.naver.com###footer
 comic.naver.com##.ad_banner_premium
+
+gltv24.com###addon-popup1-layer
+gltv24.com###addon-popup2-layer
+gltv24.com##.relative
+gltv24.com###bottom
+gltv24.com##.content_widget_bar
+
+
 
