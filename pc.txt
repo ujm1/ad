@@ -153,6 +153,7 @@ manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div > .row-10.row.basic-banner
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.view-good-box.print-hide
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div.row-15.row > .board-tail-banner
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.trans-bg-black.ellipsis.in-subject > .pull-right
 
 
 ! 2022-05-01 https://toonkor106.com
