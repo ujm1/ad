@@ -71,21 +71,6 @@ page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMen
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child > div.css-rohcl > div.css-16slecq:first-child
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child
 
-comic.naver.com##.off.u_likeit_btn
-comic.naver.com##div.asideBox:nth-of-type(4)
-comic.naver.com##div.asideBox:nth-of-type(5)
-||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
-comic.naver.com##.tit_area > .vote_lst
-comic.naver.com###sectionContWide > .vote_lst
-||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
-comic.naver.com##div.asideBox:nth-of-type(1)
-||comic.naver.com/comment/comment$subdocument
-comic.naver.com##.on.u_likeit_btn
-comic.naver.com##.u_cnt
-series.naver.com###cbox_module > div.u_cbox_wrap.u_cbox_ko.u_cbox_type_sort_best
-series.naver.com###container > div.aside.NE\=a\:cmi:first-child > div.aside_air:nth-child(5)
-series.naver.com###container > div.content_wrap:nth-child(3) > div.aside:last-child > div.bstop10.NE\=a\:rtp:last-child
-
 ! 2022-03-28 https://www.youtube.com
 www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
 www.youtube.com###owner-sub-count
@@ -94,6 +79,8 @@ www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
 www.youtube.com###subscriber-count
 www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
 www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+www.youtube.com###subscribers
+
 
 webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
 
@@ -104,18 +91,9 @@ page.kakao.com##.css-ge8e1s > .css-ifcwub > .css-1c1ahuy.text-ellipsis
 page.kakao.com##.css-qm6qod > .css-ifcwub > .css-1c1ahuy.text-ellipsis
 page.kakao.com###root > div.jsx-3157985592.mainContents.mainContents_pc:nth-child(3) > div.jsx-1520785802.contents.contents_pc:last-child > div.css-1cweefb:nth-child(5)
 
-! 2022-04-05 https://www.youtube.com
-www.youtube.com###subscribers
-
-! 2022-04-05 https://namu.wiki
-namu.wiki##.has-tooltip
-
 ! 2022-05-01 https://webtoon.kakao.com
 ||kr-a.kakaopagecdn.com/web/static/viewer/icon-good-light-938316084ac954b3806bc18c8432dd0b.svg$image
 webtoon.kakao.com##.lg\:px-0.px-20.overflow-hidden.justify-center.h-\[184px\].flex.relative
-
-! 2022-05-01 https://comic.naver.com
-comic.naver.com###ppl_image_section
 
 ! 2022-05-01 https://newtoki130.com
 newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##.col-sm-9.col-md-9.col-15
@@ -155,6 +133,14 @@ manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.view-good-box.print-hide
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div.row-15.row > .board-tail-banner
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.trans-bg-black.ellipsis.in-subject > .pull-right
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.btn-sm.btn-red.btn
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.nett##.btn-sm.btn-white.btn
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##li.list-item > .hidden-xs.wr-hit
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##li.list-item > .hidden-xs.wr-good
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.hidden-xs.wr-star > span
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-good
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-hit
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-star
 
 
 ! 2022-05-01 https://toonkor106.com
@@ -167,6 +153,8 @@ toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonk
 toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##[href^="http://po-aa.com/"]
 toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(5)
 toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(7)
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(6)
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(8)
 
 ! 2022-05-02 http://www.11toon41.com
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.m-new-year
@@ -198,6 +186,27 @@ play-tv.kakao.com#@#.banner_ad
 
 ! 2022-05-14 https://www.naver.com
 www.naver.com###rollingboard_container
+www.naver.com##.sc_shopcast
+
+sports.news.naver.com##.section_home_ad
+sports.news.naver.com##.home_shopping
+
+comic.naver.com##.off.u_likeit_btn
+comic.naver.com##div.asideBox:nth-of-type(4)
+comic.naver.com##div.asideBox:nth-of-type(5)
+||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
+comic.naver.com##.tit_area > .vote_lst
+comic.naver.com###sectionContWide > .vote_lst
+||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
+comic.naver.com##div.asideBox:nth-of-type(1)
+||comic.naver.com/comment/comment$subdocument
+comic.naver.com##.on.u_likeit_btn
+comic.naver.com##.u_cnt
+comic.naver.com###ppl_image_section
+series.naver.com###cbox_module > div.u_cbox_wrap.u_cbox_ko.u_cbox_type_sort_best
+series.naver.com###container > div.aside.NE\=a\:cmi:first-child > div.aside_air:nth-child(5)
+series.naver.com###container > div.content_wrap:nth-child(3) > div.aside:last-child > div.bstop10.NE\=a\:rtp:last-child
+
 
 ! 2022-05-14 https://noonoo.tv
 noonoo.tv###container > .partner-banner-wrap
@@ -221,13 +230,27 @@ www.dcinside.com##.p_3.typet_list > li > .main_log > .besttxt.box > .num
 gall.dcinside.com##tr.us-post.ub-content > .ub-word.gall_tit > .reply_numbox > .reply_num
 gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
 gall.dcinside.com###kakao_ad_LZlY3d > .adfit__html-banner
+gall.dcinside.com##.stickyunit
+gall.dcinside.com##.adfit__html-banner
+gall.dcinside.com###criteo_slot_6381
+gall.dcinside.com##.rightbanner1
+gall.dcinside.com##.view_ad_wrap
+gall.dcinside.com##.ub-writer.gall_writer > .fr
+gall.dcinside.com##.reply_num
+gall.dcinside.com##tr.us-post.ub-content > .gall_recommend
+gall.dcinside.com##tr.us-post.ub-content > .gall_count
+gall.dcinside.com##.up_num_box
+gall.dcinside.com##.down_num_box
+gall.dcinside.com##.num_box.fl
+gall.dcinside.com###wif_adx_banner_wrap
 
 ! 2022-05-14 https://namu.wiki
 namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/top_0__container__
 namu.wiki##.kB6doRLP
 namu.wiki###RyNVEvIUV
 namu.wiki###YLzAUnEab
-namu.wiki##.kFIuvdjX
+namu.wiki##.kFIuvdjX! 
+namu.wiki##.has-tooltip
 
 ! 2022-05-14 https://comic.naver.com
 ||naverwebtoon-phinf.pstatic.net/20220418_182/1650266281616T3Kgt_JPEG/upload_4495992003248932035.JPEG$image
@@ -242,6 +265,26 @@ gltv24.com###addon-popup2-layer
 gltv24.com##.relative
 gltv24.com###bottom
 gltv24.com##.content_widget_bar
+
+! 2022-05-15 https://mlbpark.donga.com
+mlbpark.donga.com##.top_ad
+mlbpark.donga.com###kakao_ad_IINMQ8 > .adfit__html-banner
+mlbpark.donga.com##.big_banner
+mlbpark.donga.com###kakao_ad_VFwhcR > .adfit__html-banner
+mlbpark.donga.com###real_ad_ui_sdonga00001_29820
+mlbpark.donga.com##.ad_asde01
+mlbpark.donga.com###left_ad
+mlbpark.donga.com##.trc_elastic_alternating-thumbnails-a.trc_elastic.trc_spotlight_widget.trc_related_container
+mlbpark.donga.com##.left_cont > .naver_power
+mlbpark.donga.com##.adfit__html-banner
+mlbpark.donga.com###kakao_ad_PacU5y
+mlbpark.donga.com##div:nth-of-type(13)
+mlbpark.donga.com###advertise_naver > .naver_power
+mlbpark.donga.com##.AD_asde01
+mlbpark.donga.com###center_ad01 > .adsbygoogle
+mlbpark.donga.com##div:nth-of-type(12)
+mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .views
+mlbpark.donga.com##div:nth-of-type(5)
 
 
 
