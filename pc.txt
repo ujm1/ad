@@ -72,19 +72,6 @@ page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMen
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child
 
 ! 2022-03-28 https://www.youtube.com
-www.youtube.com###owner-sub-count
-www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
-www.youtube.com###subscriber-count
-www.youtube.com###subscribers
-www.youtube.com##.ytp-videowall-still-info-author
-youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
-youtube.com###thumbnail-attribution
-youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
-youtube.com###metadata-line > span.style-scope.ytd-video-meta-block:first-child
-youtube.com###top-level-buttons-computed > ytd-toggle-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-text:first-child > a.yt-simple-endpoint.style-scope.ytd-toggle-button-renderer
-www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text > span.yt-formatted-string.style-scope
-www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
-
 
 
 webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
