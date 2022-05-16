@@ -71,6 +71,7 @@ namu.wiki###c228498821
 namu.wiki##.nA0VsxJ1
 namu.wiki##.kB6doRLP
 namu.wiki##.eKA63clJ
+namu.wiki##.X-WeFFCf
 
 mlbpark.donga.com##.addDsp > center
 mlbpark.donga.com###wrap > .addDsp
