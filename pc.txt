@@ -72,14 +72,11 @@ page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMen
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child
 
 ! 2022-03-28 https://www.youtube.com
-www.youtube.com##ytd-toggle-button-renderer.style-text.force-icon-button.ytd-menu-renderer.style-scope:nth-of-type(1)
 www.youtube.com###owner-sub-count
 www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
-www.youtube.com##span.ytd-video-meta-block.style-scope:nth-of-type(1)
 www.youtube.com###subscriber-count
-www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
-www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
 www.youtube.com###subscribers
+www.youtube.com##.ytp-videowall-still-info-author
 
 
 webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
@@ -171,10 +168,6 @@ www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44
 ! 2022-05-02 https://marumaru256.com
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.w_banner.row
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.at-side.at-col.col-md-3
-
-! 2022-05-05 https://www.youtube.com
-www.youtube.com##.ytp-videowall-still-info-author
-www.youtube.com##.style-default-active.ytd-toggle-button-renderer.style-scope
 
 tv.kakao.com#@##adBlockPixelTag
 tv.kakao.com#@#.banner_ad
