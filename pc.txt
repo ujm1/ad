@@ -214,11 +214,6 @@ hiyobi.me##div.xoVcG.sc-kDTinF:nth-of-type(2)
 hiyobi.me##.jSapbz.sc-eCImPb
 hiyobi.me##.bgpIqq.sc-hBUSln
 
-! 2022-05-14 https://www.dcinside.com
-www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
-www.dcinside.com##.p_2.typet_list > li > .main_log > .besttxt.box > .num
-www.dcinside.com##.p_3.typet_list > li > .main_log > .besttxt.box > .num
-
 ! 2022-05-14 https://gall.dcinside.com
 gall.dcinside.com##tr.us-post.ub-content > .ub-word.gall_tit > .reply_numbox > .reply_num
 gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
@@ -236,6 +231,9 @@ gall.dcinside.com##.up_num_box
 gall.dcinside.com##.down_num_box
 gall.dcinside.com##.num_box.fl
 gall.dcinside.com###wif_adx_banner_wrap
+www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
+www.dcinside.com##.p_2.typet_list > li > .main_log > .besttxt.box > .num
+www.dcinside.com##.p_3.typet_list > li > .main_log > .besttxt.box > .num
 
 ! 2022-05-14 https://namu.wiki
 namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/top_0__container__
