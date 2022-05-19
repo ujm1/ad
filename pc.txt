@@ -1,3 +1,18 @@
+! 2022-05-16 https://www.youtube.com
+www.youtube.com##.widescreen.ytd-video-masthead-ad-primary-video-renderer.style-scope
+www.youtube.com###owner-sub-count
+www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
+www.youtube.com###subscriber-count
+www.youtube.com###subscribers
+www.youtube.com##.ytp-videowall-still-info-author
+youtube.com###thumbnail-attribution
+youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
+youtube.com###metadata-line > span.style-scope.ytd-video-meta-block:first-child
+www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text > span.yt-formatted-string.style-scope
+www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
+www.youtube.com###text
+
 melon.com###conts > div.ms_wrap_cont > div.recnt_musictoday:nth-child(5) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
 melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:first-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
 melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:nth-child(2) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
@@ -203,6 +218,7 @@ noonoo.tv##.swiper-slide-active.swiper-slide > .flex-rolling > li > .posted-info
 noonoo.tv##.view-comment-area
 noonoo.tv###good_button
 noonoo.tv##.view-content > .partner-banner-wrap > .partner-banner-content
+noonoo.tv##.google-ads-content
 
 ! 2022-05-14 https://hiyobi.me
 hiyobi.me##div.xoVcG.sc-kDTinF:nth-of-type(2)
@@ -229,14 +245,6 @@ gall.dcinside.com###wif_adx_banner_wrap
 www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
 www.dcinside.com##.p_2.typet_list > li > .main_log > .besttxt.box > .num
 www.dcinside.com##.p_3.typet_list > li > .main_log > .besttxt.box > .num
-
-! 2022-05-14 https://namu.wiki
-namu.wiki###google_ads_iframe_\/21952009853\/namuwiki\/top_0__container__
-namu.wiki##.kB6doRLP
-namu.wiki###RyNVEvIUV
-namu.wiki###YLzAUnEab
-namu.wiki##.kFIuvdjX! 
-namu.wiki##.has-tooltip
 
 ! 2022-05-14 https://comic.naver.com
 ||naverwebtoon-phinf.pstatic.net/20220418_182/1650266281616T3Kgt_JPEG/upload_4495992003248932035.JPEG$image
@@ -272,5 +280,19 @@ mlbpark.donga.com##div:nth-of-type(12)
 mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .views
 mlbpark.donga.com##div:nth-of-type(5)
 
+kr33.sogirl.so###text-5 > .textwidget > .header-advertising
+kr33.sogirl.so###text-2 > .textwidget > .header-advertising
+kr33.sogirl.so###text-6 > .textwidget > .header-advertising
+kr33.sogirl.so###text-3 > .textwidget > .header-advertising
+kr33.sogirl.so###text-7 > .textwidget > .header-advertising
+kr33.sogirl.so###text-4 > .textwidget > .header-advertising
+kr33.sogirl.so###text-12 > .textwidget
+kr33.sogirl.so###text-8 > .textwidget > .header-advertising
+kr33.sogirl.so###text-9 > .textwidget > .header-advertising
+kr33.sogirl.so##.happy-footer
+kr33.sogirl.so##.happy-header
+kr33.sogirl.so##.happy-under-player
+kr33.sogirl.so##.desc
 
+coocha.co.kr##.group-power-link
 
