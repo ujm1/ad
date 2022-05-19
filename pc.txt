@@ -295,4 +295,12 @@ kr33.sogirl.so##.happy-under-player
 kr33.sogirl.so##.desc
 
 coocha.co.kr##.group-power-link
+||googleadservices.com^
+||partner.googleadservices.com^
+##iframe[src^="https://googleads.g.doubleclick.net/"]
 
+namu.wiki##iframe[src*="//arca.live/external/callad?"]
+namu.wiki##iframe[src*="//arca.live/static/ad/"]
+namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
+namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
+namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
