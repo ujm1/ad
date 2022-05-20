@@ -174,6 +174,8 @@ www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##[href="http://www.wb-tt.com/"]
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.episode-side__item.mobile-hide.product-banner
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com###contents-wrapper > div.ad720_90.mobile-m
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##font
+www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.list_hit
 
 ! 2022-05-02 https://marumaru256.com
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.w_banner.row
@@ -296,3 +298,17 @@ namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
 
+gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
+gall.dcinside.com##.reply_num
+gall.dcinside.com##tr.us-post.ub-content > .ub-word.gall_tit > .reply_numbox > .reply_num
+gall.dcinside.com##.reply_num
+gall.dcinside.com##tr.us-post.ub-content > .gall_recommend
+gall.dcinside.com##tr.us-post.ub-content > .gall_count
+gall.dcinside.com##.num_box.fl
+gall.dcinside.com##tr.us-post.ub-content > .ub-word.gall_tit > .reply_numbox > .reply_num
+gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
+gall.dcinside.com###kakao_ad_LZlY3d > .adfit__html-banner
+gall.dcinside.com##.rightbanner1
+gall.dcinside.com##.view_ad_wrap
+gall.dcinside.com##.ub-writer.gall_writer > .fr
+gall.dcinside.com###wif_adx_banner_wrap
