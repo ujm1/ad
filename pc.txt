@@ -231,15 +231,12 @@ gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
 gall.dcinside.com###kakao_ad_LZlY3d > .adfit__html-banner
 gall.dcinside.com##.stickyunit
 gall.dcinside.com##.adfit__html-banner
-gall.dcinside.com###criteo_slot_6381
 gall.dcinside.com##.rightbanner1
 gall.dcinside.com##.view_ad_wrap
 gall.dcinside.com##.ub-writer.gall_writer > .fr
 gall.dcinside.com##.reply_num
 gall.dcinside.com##tr.us-post.ub-content > .gall_recommend
 gall.dcinside.com##tr.us-post.ub-content > .gall_count
-gall.dcinside.com##.up_num_box
-gall.dcinside.com##.down_num_box
 gall.dcinside.com##.num_box.fl
 gall.dcinside.com###wif_adx_banner_wrap
 www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
