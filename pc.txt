@@ -148,6 +148,8 @@ manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-good
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-hit
 manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-star
+manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.en.font-18.view-comment
+
 
 
 ! 2022-05-01 https://toonkor106.com
@@ -162,6 +164,8 @@ toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonk
 toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(7)
 toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(6)
 toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(8)
+toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.text-center.col-md-12 > div
+
 
 ! 2022-05-02 http://www.11toon41.com
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.m-new-year
@@ -312,3 +316,40 @@ gall.dcinside.com##.rightbanner1
 gall.dcinside.com##.view_ad_wrap
 gall.dcinside.com##.ub-writer.gall_writer > .fr
 gall.dcinside.com###wif_adx_banner_wrap
+
+! 2022-05-20 https://novelpia.com
+novelpia.com##.s_inv.mobile_hidden .font11 > span
+novelpia.com##.s_inv.mobile_hidden > div > div > table > tbody > tr > td > table > tbody > tr > td
+novelpia.com##tr > .mobile_hidden > div
+novelpia.com##.mobile_hidden > [src="/img/new/list/sponsor.png"]
+novelpia.com##tr.ep_style4 > .font12 > div > .font11 > span
+novelpia.com##.ep_style2 > .font11 > span
+novelpia.com###comment_list_box
+novelpia.com##.footer-top-wrapper
+
+toptoon.com##.tit_thumb_p
+toptoon.com##.comic_hit
+toptoon.com##.comic_spoint
+toptoon.com##.subscriber_area
+toptoon.com##.swiper-slide-active.swiper-slide.realtime_list > li > .jsComicObj > .rank_info > .thumb_info > .viewCount
+toptoon.com##.swiper-slide-next.swiper-slide.realtime_list > li > .jsComicObj > .rank_info > .thumb_info > .viewCount
+toptoon.com##.index_plusapp
+toptoon.com###footer
+
+! 2022-06-04 https://namu.wiki
+namu.wiki##.has-tooltip
+
+! 2022-06-04 https://www.webtoonguide.com
+www.webtoonguide.com###toomics-recommend-swiper
+www.webtoonguide.com##div.section-mt.section-box.container:nth-of-type(10)
+www.webtoonguide.com##.wg-hot-article.section-mt.section-box.container
+www.webtoonguide.com###mans-recommend-swiper > .section-mt.section-box.container.webtoonguide-pick-swiper-container
+www.webtoonguide.com##div.section-mt.section-box.container:nth-of-type(19)
+www.webtoonguide.com##.header-middle.container
+
+blacktoon177.com##div.mt-2.banner.container:nth-of-type(2)
+blacktoon177.com##.mb-3.mt-3.banner.container
+blacktoon177.com##div.mt-2.banner.container:nth-of-type(3)
+blacktoon177.com##.toon-viewer-warp > div.col-12
+
+
