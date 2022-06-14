@@ -226,11 +226,6 @@ noonoo.tv###good_button
 noonoo.tv##.view-content > .partner-banner-wrap > .partner-banner-content
 noonoo.tv##.google-ads-content
 
-! 2022-05-14 https://hiyobi.me
-hiyobi.me##div.xoVcG.sc-kDTinF:nth-of-type(2)
-hiyobi.me##.jSapbz.sc-eCImPb
-hiyobi.me##.bgpIqq.sc-hBUSln
-
 ! 2022-05-14 https://comic.naver.com
 ||naverwebtoon-phinf.pstatic.net/20220418_182/1650266281616T3Kgt_JPEG/upload_4495992003248932035.JPEG$image
 comic.naver.com###onlyRightAd
