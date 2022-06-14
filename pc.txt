@@ -103,68 +103,68 @@ page.kakao.com###root > div.jsx-3157985592.mainContents.mainContents_pc:nth-chil
 webtoon.kakao.com##.lg\:px-0.px-20.overflow-hidden.justify-center.h-\[184px\].flex.relative
 
 ! 2022-05-01 https://newtoki130.com
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##.col-sm-9.col-md-9.col-15
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com###drjwivqfslkngxpmhecuto
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##div.col-xs-6.col-sm-3.col-md-3.col-15 > .main-box > .miso-post-list > .post-wrap > .post-list > li.post-row > .ellipsis > .font-12.gray.pull-right > .orangered.count
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##div.hidden-xs.col-sm-4.col-md-3.col-15:nth-of-type(2)
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##div.hidden-xs.col-sm-4.col-md-3.col-15:nth-of-type(3)
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com###ugvrqdnjhcpteloiskmf
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##div.col-sm-4.col-md-3.col-15:nth-of-type(4)
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##div.col-sm-4.col-md-3.col-15:nth-of-type(1)
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##div.row-15.row:nth-of-type(3)
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com###main-banner-view
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##.col-sm-3.col-md-3.col-15 > div > .board-tail-banner
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com###sxjwhgmkitnqroezpvyflu
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##tr
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##.hidden-xs.orangered.count
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com###viewcomment
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##li.list-item > .hidden-xs.wr-star
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##.border-black.div-head > .hidden-xs.wr-star
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##.border-black.div-head > .hidden-xs.wr-good
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##li.list-item > .hidden-xs.wr-good
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com###hjkrouqevlgniptswfm
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##.view-good-box.print-hide
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##div > .row-10.row.basic-banner
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com###gfeusjhibqdkmlctrnpo
-newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki138.com,newtoki139.com##article > .row-10.row.basic-banner
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##.col-sm-9.col-md-9.col-15
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com###drjwivqfslkngxpmhecuto
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##div.col-xs-6.col-sm-3.col-md-3.col-15 > .main-box > .miso-post-list > .post-wrap > .post-list > li.post-row > .ellipsis > .font-12.gray.pull-right > .orangered.count
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##div.hidden-xs.col-sm-4.col-md-3.col-15:nth-of-type(2)
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##div.hidden-xs.col-sm-4.col-md-3.col-15:nth-of-type(3)
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com###ugvrqdnjhcpteloiskmf
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##div.col-sm-4.col-md-3.col-15:nth-of-type(4)
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##div.col-sm-4.col-md-3.col-15:nth-of-type(1)
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##div.row-15.row:nth-of-type(3)
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com###main-banner-view
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##.col-sm-3.col-md-3.col-15 > div > .board-tail-banner
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com###sxjwhgmkitnqroezpvyflu
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##tr
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##.hidden-xs.orangered.count
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com###viewcomment
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##li.list-item > .hidden-xs.wr-star
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##.border-black.div-head > .hidden-xs.wr-star
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##.border-black.div-head > .hidden-xs.wr-good
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##li.list-item > .hidden-xs.wr-good
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com###hjkrouqevlgniptswfm
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##.view-good-box.print-hide
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##div > .row-10.row.basic-banner
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com###gfeusjhibqdkmlctrnpo
+newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##article > .row-10.row.basic-banner
 
 ! 2022-05-01 https://manatoki130.net
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net###main-banner-view
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div.row-15.row:nth-of-type(3)
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net###id_mbv
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.post-info.pull-right .count
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##[href] > span.count
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##article > .row-10.row.basic-banner
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div > .row-10.row.basic-banner
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.view-good-box.print-hide
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##div.row-15.row > .board-tail-banner
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.trans-bg-black.ellipsis.in-subject > .pull-right
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.btn-sm.btn-red.btn
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.nett##.btn-sm.btn-white.btn
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##li.list-item > .hidden-xs.wr-hit
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##li.list-item > .hidden-xs.wr-good
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.hidden-xs.wr-star > span
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-good
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-hit
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.border-black.div-head > .hidden-xs.wr-star
-manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net##.en.font-18.view-comment
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net###main-banner-view
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##div.row-15.row:nth-of-type(3)
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net###id_mbv
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.post-info.pull-right .count
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##[href] > span.count
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##article > .row-10.row.basic-banner
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##div > .row-10.row.basic-banner
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.view-good-box.print-hide
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##div.row-15.row > .board-tail-banner
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.trans-bg-black.ellipsis.in-subject > .pull-right
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.btn-sm.btn-red.btn
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.btn-sm.btn-white.btn
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##li.list-item > .hidden-xs.wr-hit
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##li.list-item > .hidden-xs.wr-good
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.hidden-xs.wr-star > span
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.border-black.div-head > .hidden-xs.wr-good
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.border-black.div-head > .hidden-xs.wr-hit
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.border-black.div-head > .hidden-xs.wr-star
+manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.en.font-18.view-comment
 
 
 
 ! 2022-05-01 https://toonkor106.com
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.mobile-banner.col-md-12
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.section-item-addon > .pull-right
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.bnt.bn
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.view_ma1 > .web_list > tbody
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com###nav_fin
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##td.bt_btns:nth-of-type(4)
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##[href^="http://po-aa.com/"]
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(5)
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(7)
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(6)
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div.hidden-xs.text-center:nth-of-type(8)
-toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.text-center.col-md-12 > div
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.mobile-banner.col-md-12
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.section-item-addon > .pull-right
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.bnt.bn
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.view_ma1 > .web_list > tbody
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com###nav_fin
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##td.bt_btns:nth-of-type(4)
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##[href^="http://po-aa.com/"]
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.hidden-xs.text-center:nth-of-type(5)
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.hidden-xs.text-center:nth-of-type(7)
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.hidden-xs.text-center:nth-of-type(6)
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.hidden-xs.text-center:nth-of-type(8)
+toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.text-center.col-md-12 > div
 
 
 ! 2022-05-02 http://www.11toon41.com
@@ -347,9 +347,9 @@ www.webtoonguide.com###mans-recommend-swiper > .section-mt.section-box.container
 www.webtoonguide.com##div.section-mt.section-box.container:nth-of-type(19)
 www.webtoonguide.com##.header-middle.container
 
-blacktoon177.com##div.mt-2.banner.container:nth-of-type(2)
-blacktoon177.com##.mb-3.mt-3.banner.container
-blacktoon177.com##div.mt-2.banner.container:nth-of-type(3)
-blacktoon177.com##.toon-viewer-warp > div.col-12
+blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##div.mt-2.banner.container:nth-of-type(2)
+blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##.mb-3.mt-3.banner.container
+blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##div.mt-2.banner.container:nth-of-type(3)
+blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##.toon-viewer-warp > div.col-12
 
 
