@@ -347,4 +347,7 @@ blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187
 blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##div.mt-2.banner.container:nth-of-type(3)
 blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##.toon-viewer-warp > div.col-12
 
+hiyobi.me##div.xoVcG.sc-kDTinF:nth-of-type(2)
+hiyobi.me##.jSapbz.sc-eCImPb
+hiyobi.me##.bgpIqq.sc-hBUSln
 
