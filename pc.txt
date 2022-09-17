@@ -298,7 +298,6 @@ namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
 
 gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
-gall.dcinside.com##tr.us-post.ub-content > .gall_count
 gall.dcinside.com##.rightbanner1
 gall.dcinside.com##.view_ad_wrap
 gall.dcinside.com##.ub-writer.gall_writer > .fr
