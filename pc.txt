@@ -298,15 +298,7 @@ namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
 
 gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
-gall.dcinside.com##.reply_num
-gall.dcinside.com##tr.us-post.ub-content > .ub-word.gall_tit > .reply_numbox > .reply_num
-gall.dcinside.com##.reply_num
-gall.dcinside.com##tr.us-post.ub-content > .gall_recommend
 gall.dcinside.com##tr.us-post.ub-content > .gall_count
-gall.dcinside.com##.num_box.fl
-gall.dcinside.com##tr.us-post.ub-content > .ub-word.gall_tit > .reply_numbox > .reply_num
-gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
-gall.dcinside.com###kakao_ad_LZlY3d > .adfit__html-banner
 gall.dcinside.com##.rightbanner1
 gall.dcinside.com##.view_ad_wrap
 gall.dcinside.com##.ub-writer.gall_writer > .fr
