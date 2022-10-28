@@ -11,6 +11,9 @@ youtube.com###metadata-line > span.style-scope.ytd-video-meta-block:first-child
 www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text > span.yt-formatted-string.style-scope
 www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
 youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
+www.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+
+
 
 
 melon.com###conts > div.ms_wrap_cont > div.recnt_musictoday:nth-child(5) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
