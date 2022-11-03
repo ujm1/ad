@@ -204,6 +204,10 @@ www.naver.com##.sc_shopcast
 
 sports.news.naver.com##.section_home_ad
 sports.news.naver.com##.home_shopping
+sports.news.naver.com###sports_placard_tgtLREC
+sports.news.naver.com##.shopping_section
+sports.news.naver.com##.home_side_ad
+sports.news.naver.com##div.home_issue_box:nth-of-type(1)
 
 comic.naver.com##.off.u_likeit_btn
 comic.naver.com##div.asideBox:nth-of-type(4)
@@ -354,4 +358,6 @@ hanime.tv##div.video__item__info__subtitle__one_liner:nth-of-type(2)
 hanime.tv##.lazy > div
 hanime.tv##.active.desktop.htvad.mt-5.mb-5
 hanime.tv##.primary-color-hover.align-center.justify-center.flex.hvpab-btn > .hvpabb-text
+
+||arca.live/external/callad$subdocument
 
