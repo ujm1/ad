@@ -204,26 +204,29 @@ sports.news.naver.com###sports_placard_tgtLREC
 sports.news.naver.com##.shopping_section
 sports.news.naver.com##.home_side_ad
 sports.news.naver.com##div.home_issue_box:nth-of-type(1)
-search.shopping.naver.com##li[class^="basicList_item__"].ad
-msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
 
 comic.naver.com##.off.u_likeit_btn
 comic.naver.com##div.asideBox:nth-of-type(4)
 comic.naver.com##div.asideBox:nth-of-type(5)
-||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
 comic.naver.com##.tit_area > .vote_lst
 comic.naver.com###sectionContWide > .vote_lst
-||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
 comic.naver.com##div.asideBox:nth-of-type(1)
-||comic.naver.com/comment/comment$subdocument
 comic.naver.com##.on.u_likeit_btn
 comic.naver.com##.u_cnt
 comic.naver.com###ppl_image_section
 series.naver.com###cbox_module > div.u_cbox_wrap.u_cbox_ko.u_cbox_type_sort_best
 series.naver.com###container > div.aside.NE\=a\:cmi:first-child > div.aside_air:nth-child(5)
 series.naver.com###container > div.content_wrap:nth-child(3) > div.aside:last-child > div.bstop10.NE\=a\:rtp:last-child
+comic.naver.com###onlyRightAd
+comic.naver.com##.band_banner
+comic.naver.com##.new_comic
+comic.naver.com###footer
+comic.naver.com##.ad_banner_premium
 ||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
-
+||naverwebtoon-phinf.pstatic.net/20220418_182/1650266281616T3Kgt_JPEG/upload_4495992003248932035.JPEG$image
+||comic.naver.com/comment/comment$subdocument
+||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
+||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
 
 ! 2022-05-14 https://noonoo.tv
 noonoo.tv###container > .partner-banner-wrap
@@ -234,13 +237,6 @@ noonoo.tv###good_button
 noonoo.tv##.view-content > .partner-banner-wrap > .partner-banner-content
 noonoo.tv##.google-ads-content
 
-! 2022-05-14 https://comic.naver.com
-||naverwebtoon-phinf.pstatic.net/20220418_182/1650266281616T3Kgt_JPEG/upload_4495992003248932035.JPEG$image
-comic.naver.com###onlyRightAd
-comic.naver.com##.band_banner
-comic.naver.com##.new_comic
-comic.naver.com###footer
-comic.naver.com##.ad_banner_premium
 
 gltv24.com###addon-popup1-layer
 gltv24.com###addon-popup2-layer
