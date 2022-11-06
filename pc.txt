@@ -198,10 +198,6 @@ play-tv.kakao.com#@#.banner_ad
 @@webid.ad.daum.net/sync?v=0.0.1
 @@videoads.kakao.com/adserver/api/v2/vmap
 
-! 2022-05-14 https://www.naver.com
-www.naver.com###rollingboard_container
-www.naver.com##.sc_shopcast
-
 sports.news.naver.com##.section_home_ad
 sports.news.naver.com##.home_shopping
 sports.news.naver.com###sports_placard_tgtLREC
@@ -210,9 +206,6 @@ sports.news.naver.com##.home_side_ad
 sports.news.naver.com##div.home_issue_box:nth-of-type(1)
 search.shopping.naver.com##li[class^="basicList_item__"].ad
 msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
-||adcr.naver.com^
-@@||shopping.naver.net/ad/$image,script,stylesheet,domain=naver.com
-||castbox.shopping.naver.com/shoppingboxnew/main.
 
 comic.naver.com##.off.u_likeit_btn
 comic.naver.com##div.asideBox:nth-of-type(4)
