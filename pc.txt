@@ -227,6 +227,12 @@ comic.naver.com##.ad_banner_premium
 ||comic.naver.com/comment/comment$subdocument
 ||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
 ||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
+www.naver.com##._NM_THEME_TAB.group_theme
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(5)
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(6)
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(7)
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(8)
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(9)
 
 www.naver.com###rollingboard_container
 www.naver.com##.sc_shopcast
@@ -235,6 +241,10 @@ www.naver.com##.sc_shopcast
 ||castbox.shopping.naver.com/shoppingboxnew/main.
 search.shopping.naver.com##li[class^="basicList_item__"].ad
 msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
+||www.naver.com/shoppingbox/shoppingboxnew/main.nhn?mode=plusdeal&domain=N$subdocument
+www.naver.com###NM_TOP_BANNER
+||www.naver.com/shoppingbox/shoppingboxnew/main.nhn$subdocument
+n.news.naver.com###contents > .is_border_none._da_banner.ad_box.r_group_comp
 
 ! 2022-05-14 https://noonoo.tv
 noonoo.tv###container > .partner-banner-wrap
