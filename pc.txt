@@ -15,6 +15,8 @@ www.youtube.com###content > .ytd-rich-section-renderer.style-scope
 www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
 www.youtube.com##span.bold.yt-formatted-string.style-scope:nth-of-type(1)
 www.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com###info > span.yt-formatted-string.style-scope.bold
+www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
 
 
 
@@ -91,8 +93,6 @@ page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMen
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child > div.css-rohcl > div.css-16slecq:first-child
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child
 
-! 2022-03-28 https://www.youtube.com
-
 
 webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
 
@@ -133,27 +133,27 @@ newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newto
 newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com###gfeusjhibqdkmlctrnpo
 newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##article > .row-10.row.basic-banner
 
-! 2022-05-01 https://manatoki130.net
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net###main-banner-view
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##div.row-15.row:nth-of-type(3)
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net###id_mbv
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.post-info.pull-right .count
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##[href] > span.count
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##article > .row-10.row.basic-banner
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##div > .row-10.row.basic-banner
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.view-good-box.print-hide
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##div.row-15.row > .board-tail-banner
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.trans-bg-black.ellipsis.in-subject > .pull-right
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.btn-sm.btn-red.btn
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.btn-sm.btn-white.btn
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##li.list-item > .hidden-xs.wr-hit
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##li.list-item > .hidden-xs.wr-good
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.hidden-xs.wr-star > span
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.border-black.div-head > .hidden-xs.wr-good
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.border-black.div-head > .hidden-xs.wr-hit
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.border-black.div-head > .hidden-xs.wr-star
-manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net##.en.font-18.view-comment
+
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net###main-banner-view
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.row-15.row:nth-of-type(3)
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net###id_mbv
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.post-info.pull-right .count
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##[href] > span.count
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##article > .row-10.row.basic-banner
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div > .row-10.row.basic-banner
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.view-good-box.print-hide
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.row-15.row > .board-tail-banner
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.trans-bg-black.ellipsis.in-subject > .pull-right
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.btn-sm.btn-red.btn
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.btn-sm.btn-white.btn
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##li.list-item > .hidden-xs.wr-hit
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##li.list-item > .hidden-xs.wr-good
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.hidden-xs.wr-star > span
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.border-black.div-head > .hidden-xs.wr-good
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.border-black.div-head > .hidden-xs.wr-hit
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.border-black.div-head > .hidden-xs.wr-star
+manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.en.font-18.view-comment
 
 
 
@@ -208,6 +208,11 @@ sports.news.naver.com###sports_placard_tgtLREC
 sports.news.naver.com##.shopping_section
 sports.news.naver.com##.home_side_ad
 sports.news.naver.com##div.home_issue_box:nth-of-type(1)
+search.shopping.naver.com##li[class^="basicList_item__"].ad
+msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
+||adcr.naver.com^
+@@||shopping.naver.net/ad/$image,script,stylesheet,domain=naver.com
+||castbox.shopping.naver.com/shoppingboxnew/main.
 
 comic.naver.com##.off.u_likeit_btn
 comic.naver.com##div.asideBox:nth-of-type(4)
@@ -224,6 +229,7 @@ comic.naver.com###ppl_image_section
 series.naver.com###cbox_module > div.u_cbox_wrap.u_cbox_ko.u_cbox_type_sort_best
 series.naver.com###container > div.aside.NE\=a\:cmi:first-child > div.aside_air:nth-child(5)
 series.naver.com###container > div.content_wrap:nth-child(3) > div.aside:last-child > div.bstop10.NE\=a\:rtp:last-child
+||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
 
 
 ! 2022-05-14 https://noonoo.tv
@@ -305,12 +311,34 @@ namu.wiki##iframe[src*="//arca.live/static/ad/"]
 namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
+namu.wiki##.has-tooltip
+namu.wiki##[src="//arca.live/external/callad"]
+https://adservice.google.com/adsid/integrator.js?domain=namu.wiki
+https://adservice.google.co.kr/adsid/integrator.js?domain=namu.wiki
+||minor.town/static/ad/^$domain=namu.wiki
+||arca.live/static/ad/$domain=namu.wiki
+||namu.live/api/ads^$domain=namu.live
+||namu.live/static/ad/$domain=namu.wiki
+arca.live,minor.town,namu.live##div.ad
+arca.live,minor.town,namu.live##iframe[src^="/api/ads"]
+namu.wiki##article>div[id]:not([class])~div[class]:not([id])
+namu.wiki##aside>div[id]>div[id]:first-child
+namu.wiki##div#search-ad
+namu.wiki##div.ad
+namu.wiki##div.namuwiki-toc-ad
+namu.wiki##div.test-ad-card
+namu.wiki##iframe[src^="//arca.live/static/ad/"]
+namu.wiki##iframe[src^="//minor.town/static/ad/"]
+namu.wiki##iframe[src^="//namu.live/static/ad/"]
+namu.wiki#?#article div[class] > div[class]:not(:has(> *)) ~ div[class]:has(> div[style*=" "])
 
 gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
 gall.dcinside.com##.rightbanner1
 gall.dcinside.com##.view_ad_wrap
 gall.dcinside.com##.ub-writer.gall_writer > .fr
 gall.dcinside.com###wif_adx_banner_wrap
+www.dcinside.com##.dc_logo > [href="https://www.dcinside.com/"]
+www.dcinside.com##.rightbanner
 
 ! 2022-05-20 https://novelpia.com
 novelpia.com##.s_inv.mobile_hidden .font11 > span
@@ -359,5 +387,22 @@ hanime.tv##.lazy > div
 hanime.tv##.active.desktop.htvad.mt-5.mb-5
 hanime.tv##.primary-color-hover.align-center.justify-center.flex.hvpab-btn > .hvpabb-text
 
+bbs.ruliweb.com##.like_wrapper > .like
+bbs.ruliweb.com##.user_info .like
+bbs.ruliweb.com##.num_reply
+bbs.ruliweb.com##tr.blocktarget.table_body > .recomd
+bbs.ruliweb.com##tr.blocktarget.table_body > .hit
+bbs.ruliweb.com##.subject > .reply_count
+bbs.ruliweb.com##.num_txt
+
+www.comico.kr##.txt_viewer
+
 ||arca.live/external/callad$subdocument
+
+||image.fmkorea.com/modules/point/icons/fmkorea10/34.gif?yzv$image
+||image.fmkorea.com/modules/point/icons/fmkorea10/26.gif?yzv$image
+||image.fmkorea.com/modules/point/icons/$image
+
+
+
 
