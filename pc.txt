@@ -228,6 +228,14 @@ comic.naver.com##.ad_banner_premium
 ||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
 ||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
 
+www.naver.com###rollingboard_container
+www.naver.com##.sc_shopcast
+||adcr.naver.com^
+@@||shopping.naver.net/ad/$image,script,stylesheet,domain=naver.com
+||castbox.shopping.naver.com/shoppingboxnew/main.
+search.shopping.naver.com##li[class^="basicList_item__"].ad
+msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
+
 ! 2022-05-14 https://noonoo.tv
 noonoo.tv###container > .partner-banner-wrap
 noonoo.tv##.swiper-slide-active.swiper-slide > .flex-rolling > li > .posted-info > .like
