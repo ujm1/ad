@@ -100,7 +100,6 @@ m.youtube.com##div.small-text.compact-media-item-stats:nth-of-type(2)
 m.youtube.com##div.small-text.compact-media-item-byline:nth-of-type(2)
 m.youtube.com##.secondary-text.c4-tabbed-header-subscriber-count
 m.youtube.com##.subhead
-m.youtube.com##p:nth-of-type(3)
 m.youtube.com##ytm-badge-and-byline-renderer:nth-of-type(2)
 
 hanime.tv##.mb-5.htv-carousel-container.lazy > div > .noselect.htv-carousel > .htv-carousel__desktop.htv-carousel__scrolls > .htv-carousel__slider > div.card.item.hvc.mb-3.elevation-3 > .no-touch > div > .card__title > .align-center.justify-center.column.flex.hvc__content > .hv-subtitle
