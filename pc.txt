@@ -386,14 +386,6 @@ hiyobi.me##div.xoVcG.sc-kDTinF:nth-of-type(2)
 hiyobi.me##.jSapbz.sc-eCImPb
 hiyobi.me##.bgpIqq.sc-hBUSln
 
-hanime.tv##.mb-5.htv-carousel-container.lazy > div > .noselect.htv-carousel > .htv-carousel__desktop.htv-carousel__scrolls > .htv-carousel__slider > div.card.item.hvc.mb-3.elevation-3 > .no-touch > div > .card__title > .align-center.justify-center.column.flex.hvc__content > .hv-subtitle
-hanime.tv##.mb-5.noselect.htv-carousel > .htv-carousel__desktop.htv-carousel__scrolls > .htv-carousel__slider > div.card.item.hvc.mb-3.elevation-3 > .no-touch > div > .card__title > .align-center.justify-center.column.flex.hvc__content > .hv-subtitle
-hanime.tv##.grey--text.tv-views
-hanime.tv##div.video__item__info__subtitle__one_liner:nth-of-type(2)
-hanime.tv##.lazy > div
-hanime.tv##.active.desktop.htvad.mt-5.mb-5
-hanime.tv##.primary-color-hover.align-center.justify-center.flex.hvpab-btn > .hvpabb-text
-
 bbs.ruliweb.com##.like_wrapper > .like
 bbs.ruliweb.com##.user_info .like
 bbs.ruliweb.com##.num_reply
@@ -409,6 +401,20 @@ www.comico.kr##.txt_viewer
 ||image.fmkorea.com/modules/point/icons/fmkorea10/34.gif?yzv$image
 ||image.fmkorea.com/modules/point/icons/fmkorea10/26.gif?yzv$image
 ||image.fmkorea.com/modules/point/icons/$image
+
+! 2022-11-15 https://www.kgirls.net
+www.kgirls.net##.replyNum
+
+! 2022-11-15 https://kr4.jmana.one
+kr4.jmana.one###slick-slide00 > div > ul > li.stl1.img-slider-item > .txt-wrap > .reaction-wrap > .txt-comment
+kr4.jmana.one##.txt-comment
+kr4.jmana.one##.reaction-wrap
+kr4.jmana.one##.u-reaction-wrap
+kr4.jmana.one##.txt-view
+kr4.jmana.one##.u-reaction-result-wrap > .txt-good
+
+! 2022-11-17 https://www.afreecatv.com
+www.afreecatv.com###hotIssueLive
 
 
 
