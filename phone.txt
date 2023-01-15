@@ -19,21 +19,21 @@ toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonk
 toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.visible-xs.text-center:nth-of-type(9)
 toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.visible-xs.text-center:nth-of-type(7)
 
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net###main-banner-view
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.row-15.row:nth-of-type(3)
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net###ptsihwrlojdgmvefukqn
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.tab-content
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.nav-tabs.nav
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net###id_mbv
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.row-15.row > .board-tail-banner
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net###qhtwnujyolbrdkxifgczsvpem > a[href^="https://manatoki130.net/bbs/linkbn.php"]
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##article > .row-10.row.basic-banner
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div > .row-10.row.basic-banner
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.post-info.pull-right .count
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##[href] > span.count
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##body > div:nth-of-type(4) > div
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.trans-bg-black.ellipsis.in-subject > .pull-right
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###main-banner-view
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.row-15.row:nth-of-type(3)
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###ptsihwrlojdgmvefukqn
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.tab-content
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.nav-tabs.nav
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###id_mbv
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.row-15.row > .board-tail-banner
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###qhtwnujyolbrdkxifgczsvpem > a[href^="https://manatoki130.net/bbs/linkbn.php"]
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##article > .row-10.row.basic-banner
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div > .row-10.row.basic-banner
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.post-info.pull-right .count
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##[href] > span.count
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##body > div:nth-of-type(4) > div
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.trans-bg-black.ellipsis.in-subject > .pull-right
 
 
 marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.w_banner.row
