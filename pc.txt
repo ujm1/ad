@@ -134,26 +134,26 @@ newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newto
 newtoki140.com,newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com##article > .row-10.row.basic-banner
 
 
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net###main-banner-view
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.row-15.row:nth-of-type(3)
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net###id_mbv
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.post-info.pull-right .count
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##[href] > span.count
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##article > .row-10.row.basic-banner
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div > .row-10.row.basic-banner
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.view-good-box.print-hide
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##div.row-15.row > .board-tail-banner
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.trans-bg-black.ellipsis.in-subject > .pull-right
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.btn-sm.btn-red.btn
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.btn-sm.btn-white.btn
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##li.list-item > .hidden-xs.wr-hit
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##li.list-item > .hidden-xs.wr-good
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.hidden-xs.wr-star > span
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.border-black.div-head > .hidden-xs.wr-good
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.border-black.div-head > .hidden-xs.wr-hit
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.border-black.div-head > .hidden-xs.wr-star
-manatoki160.net,manatoki161.net,manatoki162.net,manatoki163.net,manatoki164.net,manatoki165.net,manatoki166.net,manatoki167.net,manatoki168.net,manatoki169.net##.en.font-18.view-comment
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###main-banner-view
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.row-15.row:nth-of-type(3)
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###id_mbv
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.post-info.pull-right .count
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##[href] > span.count
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##article > .row-10.row.basic-banner
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div > .row-10.row.basic-banner
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.view-good-box.print-hide
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.row-15.row > .board-tail-banner
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.trans-bg-black.ellipsis.in-subject > .pull-right
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.btn-sm.btn-red.btn
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.btn-sm.btn-white.btn
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##li.list-item > .hidden-xs.wr-hit
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##li.list-item > .hidden-xs.wr-good
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.hidden-xs.wr-star > span
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.border-black.div-head > .hidden-xs.wr-good
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.border-black.div-head > .hidden-xs.wr-hit
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.border-black.div-head > .hidden-xs.wr-star
+manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.en.font-18.view-comment
 
 
 
@@ -416,6 +416,65 @@ kr4.jmana.one##.u-reaction-result-wrap > .txt-good
 ! 2022-11-17 https://www.afreecatv.com
 www.afreecatv.com###hotIssueLive
 
+! 2022-11-17 https://hanime.tv
+hanime.tv##.hv-subtitle
+hanime.tv##.landing__content > div > .active.desktop.htvad.mb-5
+hanime.tv##.landing__content > .active.desktop.htvad.mb-5
+hanime.tv##.site-description
+hanime.tv##.has-actions.column.flex.video__item__info > .column.flex.video__item__info__subtitle > div.video__item__info__subtitle__one_liner:nth-of-type(2)
+hanime.tv##div.video__item__info__subtitle__one_liner:nth-of-type(2)
+
+! 2022-11-21 https://webtoon.kakao.com
+webtoon.kakao.com##.overflow-hidden.h-full > .z-navigationBar.right-0.left-0.top-0.fixed.h-header-height.flex.items-center.m-auto.px-18 > .flex-center.inset-0.absolute
+
+! 2022-11-21 https://www.fmkorea.com
+www.fmkorea.com##.banner3-fixed
+
+! 2022-11-23 https://www.youtube.com
+www.youtube.com###video-count
+
+! 2022-11-23 https://www.dcinside.com
+www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
+www.dcinside.com##.p_2.typet_list > li > .main_log > .besttxt.box > .num
+www.dcinside.com##.p_3.typet_list > li > .main_log > .besttxt.box > .num
+
+! 2022-11-25 https://music.bugs.co.kr
+music.bugs.co.kr##.like.btnNormal > span > em
+music.bugs.co.kr###basicInfoTotalCount
+music.bugs.co.kr##.desc
+music.bugs.co.kr##.listComments > li
+
+! 2022-11-28 https://www.youtube.com
+www.youtube.com##.ytd-video-masthead-ad-v3-renderer.style-scope
+
+! 2022-11-30 https://page.kakao.com
+page.kakao.com##.css-1ao35gu-ContentOverviewInfo
+page.kakao.com##.css-x1brjj-Metadata-NormalListViewItem
+page.kakao.com##.css-x1brjj-Metadata-NormalListViewItem
+page.kakao.com##.css-12ar9m8-Metadata-PosterViewItem
+
+@@||namu.wiki/edit$document
+
+! 2022-12-06 https://www.youtube.com
+www.youtube.com###like-button > yt-button-shape > .yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label
+www.youtube.com###comments-button > .ytd-reel-player-overlay-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label
+
+! 2022-12-06 https://twitter.com
+twitter.com##.r-1mdbhws.r-1s2bzr4.r-1wtj0ep.r-18u37iz.r-1ta3fxp.css-1dbjc4n
+twitter.com##.r-1w6e6rj.r-18u37iz.r-13awgt0.css-1dbjc4n
+twitter.com##.r-1yzf0co.r-s1qlax.r-tzz3ar.r-18u37iz.r-13awgt0.r-5kkj8d.r-1efd50x.r-1dgieki.css-1dbjc4n
+
+! 2022-12-18 https://mlbpark.donga.com
+mlbpark.donga.com##.text2
+
+! 2022-12-20 https://www.youtube.com
+www.youtube.com##yt-formatted-string.ytd-playlist-byline-renderer.style-scope.byline-item:nth-of-type(2)
+www.youtube.com##span.yt-formatted-string.style-scope:nth-of-type(1)
+
+! 2022-12-20 https://pillnaro.tistory.com
+pillnaro.tistory.com##.total
+pillnaro.tistory.com##.today
+pillnaro.tistory.com##.yesterday
 
 
 
