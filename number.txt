@@ -8001,4 +8001,27 @@ kr9.hasha.in##.items-center.flex-col.flex
 kr1.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
 kr2.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
 kr3.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
-kr4.hasha.in##.max-w-full.flex-col.flex.
+kr4.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
+kr5.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
+kr6.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
+kr7.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
+kr8.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
+kr9.hasha.in##.max-w-full.flex-col.flex.mb-6.mt-6.mx-auto.w-fit
+kr1.hasha.in##.hrJmlO.sc-gikAfH
+kr2.hasha.in##.hrJmlO.sc-gikAfH
+kr3.hasha.in##.hrJmlO.sc-gikAfH
+kr4.hasha.in##.hrJmlO.sc-gikAfH
+kr5.hasha.in##.hrJmlO.sc-gikAfH
+kr6.hasha.in##.hrJmlO.sc-gikAfH
+kr7.hasha.in##.hrJmlO.sc-gikAfH
+kr8.hasha.in##.hrJmlO.sc-gikAfH
+kr9.hasha.in##.hrJmlO.sc-gikAfH
+kr1.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+kr2.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+kr3.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+kr4.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+kr5.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+kr6.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+kr7.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+kr8.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+kr9.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
