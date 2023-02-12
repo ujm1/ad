@@ -476,5 +476,24 @@ pillnaro.tistory.com##.total
 pillnaro.tistory.com##.today
 pillnaro.tistory.com##.yesterday
 
+bomtoon.com###bt-weekly-list-sun > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-sat > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-mon > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-tue > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-wed > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-thu > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-fri > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-10 > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-all > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com##.pop-series-list__view-count
+
+! 2023-02-12 https://www.bomtoon.com
+www.bomtoon.com##.gdm > .grid-list [href] > .cont .view
+www.bomtoon.com##.recent > .grid-list [href] > .cont .view
+www.bomtoon.com##.ranking > .grid-list [href] > .cont .view
+www.bomtoon.com##.swiper-slide-active.swiper-slide-duplicate.swiper-slide > li > [href] > .cont > p > .view
+www.bomtoon.com##.swiper-slide-active.swiper-slide [href] > .cont .view
+www.bomtoon.com##.million > .grid-list [href] > .cont .view
+www.bomtoon.com##[href*="/comic/ep_list/"] > .cont > p > .view
 
 
