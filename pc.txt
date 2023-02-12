@@ -391,4 +391,15 @@ www.bomtoon.com##.swiper-slide-active.swiper-slide [href] > .cont .view
 www.bomtoon.com##.million > .grid-list [href] > .cont .view
 www.bomtoon.com##[href*="/comic/ep_list/"] > .cont > p > .view
 
+hisoki.me##.mb10.ad-zone.w12
+hisoki.me##div.mt15.ad-zone:nth-of-type(3)
+hisoki.me##article.box.mt15.w12:nth-of-type(2)
+hisoki.me##div.mt15.ad-zone:nth-of-type(4)
+hisoki.me##div.mt15.ad-zone:nth-of-type(5)
+hisoki.me##.ad-zone.mt20
+hisoki.me##article.box.mt15.w12:nth-of-type(3)
+hisoki.me##article.mt15.box.w12:nth-of-type(4)
+hisoki.me##article.box.mt15.w12:nth-of-type(5)
+hisoki.me##.date
+hisoki.me##.mb15.list-inner.ad-zone.w12
 
