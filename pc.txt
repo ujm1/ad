@@ -403,3 +403,9 @@ hisoki.me##article.box.mt15.w12:nth-of-type(5)
 hisoki.me##.date
 hisoki.me##.mb15.list-inner.ad-zone.w12
 
+www.bomtoon.com###bt-btn-comment > .bt-comment-count
+www.bomtoon.com##.c-a4.btn-arr-right
+
+twitter.com##.r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao > .r-1udh08x.r-xoduu5.css-1dbjc4n .r-qvutc0.r-bcqeeo.r-1cwl3u0.r-b88u0q.r-1b43r93.r-poiln3.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
+twitter.com##.r-qvutc0.r-1e081e0.r-1k6nrdp.r-1cwl3u0.r-n6v787.r-poiln3.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
+
