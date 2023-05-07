@@ -114,3 +114,9 @@ hanime.tv##div.video__item__info__subtitle__one_liner:nth-of-type(2)
 hanime.tv##.lazy > div
 hanime.tv##.active.desktop.htvad.mt-5.mb-5
 hanime.tv##.primary-color-hover.align-center.justify-center.flex.hvpab-btn > .hvpabb-text
+
+m.youtube.com##span.c4-tabbed-header-modern-metadata-item:nth-of-type(2) > .yt-core-attributed-string
+m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
+
+manatoki287.net##.wr-comment.pull-right.visible-xs.orangered
+m.youtube.com##.watch-card-metadata-container
