@@ -314,6 +314,16 @@ www.comico.kr##.txt_viewer
 ||image.fmkorea.com/modules/point/icons/fmkorea10/34.gif?yzv$image
 ||image.fmkorea.com/modules/point/icons/fmkorea10/26.gif?yzv$image
 ||image.fmkorea.com/modules/point/icons/$image
+www.fmkorea.com##li.li_best2_hotdeal0.li_best2_pop0.li > .li > .title > .hotdeal_var8 > .comment_count
+www.fmkorea.com##.hotdeal_var8.title > .replyNum
+www.fmkorea.com##td.m_no:nth-of-type(5)
+www.fmkorea.com##.m_no_voted.m_no
+www.fmkorea.com##.copyright > div > span
+www.fmkorea.com##section.ul:nth-of-type(1)
+www.fmkorea.com##section.ul:nth-of-type(2)
+www.fmkorea.com##.nplt.adpost_with_thumbnail.adpost
+www.fmkorea.com##.clear.btm_area
+www.fmkorea.com##.banner3-fixed
 
 ! 2022-11-15 https://www.kgirls.net
 www.kgirls.net##.replyNum
@@ -329,8 +339,6 @@ hanime.tv##.site-description
 hanime.tv##.has-actions.column.flex.video__item__info > .column.flex.video__item__info__subtitle > div.video__item__info__subtitle__one_liner:nth-of-type(2)
 hanime.tv##div.video__item__info__subtitle__one_liner:nth-of-type(2)
 
-! 2022-11-21 https://www.fmkorea.com
-www.fmkorea.com##.banner3-fixed
 
 ! 2022-11-23 https://www.dcinside.com
 www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
