@@ -17,7 +17,7 @@ www.youtube.com##span.bold.yt-formatted-string.style-scope:nth-of-type(1)
 www.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
 www.youtube.com###info > span.yt-formatted-string.style-scope.bold
 www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
-
+www.youtube.com###video-count
 
 
 melon.com###conts > div.ms_wrap_cont > div.recnt_musictoday:nth-child(5) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
@@ -83,6 +83,7 @@ melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody
 melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
 melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(6) > td.t_left:nth-child(6)
 melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(9) > td.t_left:nth-child(6)
+
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-sgpdfd:first-child > div.css-knfhfe > div.css-1ydjg2i:last-child > div.countInfoBox.css-1lmggoi:nth-child(2) > div.css-bvpmim:first-child > div.css-fjzm5m:last-child
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-sgpdfd:first-child > div.css-knfhfe > div.css-1ydjg2i:last-child > div.countInfoBox.css-1lmggoi:nth-child(2) > div.css-11vmqkl:last-child > div.css-12ymafv:nth-child(2)
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:first-child > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
@@ -92,16 +93,13 @@ page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMen
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:nth-child(5) > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child > div.css-rohcl > div.css-16slecq:first-child
 page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child
-
-
-webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
-
-! 2022-04-03 https://page.kakao.com
+page.kakao.com##.mt-30pxr
 page.kakao.com##.css-17v86ak > .css-ifcwub > .css-1c1ahuy.text-ellipsis
 page.kakao.com##.css-j3o65g
 page.kakao.com##.css-ge8e1s > .css-ifcwub > .css-1c1ahuy.text-ellipsis
 page.kakao.com##.css-qm6qod > .css-ifcwub > .css-1c1ahuy.text-ellipsis
 page.kakao.com###root > div.jsx-3157985592.mainContents.mainContents_pc:nth-child(3) > div.jsx-1520785802.contents.contents_pc:last-child > div.css-1cweefb:nth-child(5)
+page.kakao.com##span.css-1797ph-Text.align-middle.break-all:nth-of-type(2)
 
 ! 2022-05-01 https://webtoon.kakao.com
 ||kr-a.kakaopagecdn.com/web/static/viewer/icon-good-light-938316084ac954b3806bc18c8432dd0b.svg$image
@@ -115,12 +113,16 @@ play-tv.kakao.com#@#.banner_ad
 @@webid.ad.daum.net/sync?v=0.0.1
 @@videoads.kakao.com/adserver/api/v2/vmap
 
+webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
+
 sports.news.naver.com##.section_home_ad
 sports.news.naver.com##.home_shopping
 sports.news.naver.com###sports_placard_tgtLREC
 sports.news.naver.com##.shopping_section
 sports.news.naver.com##.home_side_ad
 sports.news.naver.com##div.home_issue_box:nth-of-type(1)
+sports.news.naver.com###_section_home_center_right_opentalk
+sports.news.naver.com##.home_opentalk
 
 comic.naver.com##.off.u_likeit_btn
 comic.naver.com##div.asideBox:nth-of-type(4)
@@ -139,11 +141,16 @@ comic.naver.com##.band_banner
 comic.naver.com##.new_comic
 comic.naver.com###footer
 comic.naver.com##.ad_banner_premium
+comic.naver.com##.Aside__aside_wrap--iF5ju > div.component_wrap:nth-of-type(1)
+comic.naver.com##div.component_wrap:nth-of-type(2)
+
 ||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
 ||naverwebtoon-phinf.pstatic.net/20220418_182/1650266281616T3Kgt_JPEG/upload_4495992003248932035.JPEG$image
 ||comic.naver.com/comment/comment$subdocument
 ||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
 ||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
+
+
 www.naver.com##._NM_THEME_TAB.group_theme
 www.naver.com##div._NM_API_UI.group_theme:nth-of-type(5)
 www.naver.com##div._NM_API_UI.group_theme:nth-of-type(6)
@@ -198,6 +205,9 @@ mlbpark.donga.com###center_ad01 > .adsbygoogle
 mlbpark.donga.com##div:nth-of-type(12)
 mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .views
 mlbpark.donga.com##div:nth-of-type(5)
+mlbpark.donga.com##.the_hottest
+mlbpark.donga.com###center_ad02
+mlbpark.donga.com###center_ad01
 
 coocha.co.kr##.group-power-link
 ||googleadservices.com^
@@ -319,14 +329,8 @@ hanime.tv##.site-description
 hanime.tv##.has-actions.column.flex.video__item__info > .column.flex.video__item__info__subtitle > div.video__item__info__subtitle__one_liner:nth-of-type(2)
 hanime.tv##div.video__item__info__subtitle__one_liner:nth-of-type(2)
 
-! 2022-11-21 https://webtoon.kakao.com
-webtoon.kakao.com##.overflow-hidden.h-full > .z-navigationBar.right-0.left-0.top-0.fixed.h-header-height.flex.items-center.m-auto.px-18 > .flex-center.inset-0.absolute
-
 ! 2022-11-21 https://www.fmkorea.com
 www.fmkorea.com##.banner3-fixed
-
-! 2022-11-23 https://www.youtube.com
-www.youtube.com###video-count
 
 ! 2022-11-23 https://www.dcinside.com
 www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
@@ -347,6 +351,8 @@ page.kakao.com##.css-1ao35gu-ContentOverviewInfo
 page.kakao.com##.css-x1brjj-Metadata-NormalListViewItem
 page.kakao.com##.css-x1brjj-Metadata-NormalListViewItem
 page.kakao.com##.css-12ar9m8-Metadata-PosterViewItem
+page.kakao.com##.px-5pxr.bg-el-60.rounded-16pxr.justify-center.items-center.-translate-y-1\/2.translate-x-1\/2.flex.right-0.top-0.absolute
+webtoon.kakao.com##.overflow-hidden.h-full > .z-navigationBar.right-0.left-0.top-0.fixed.h-header-height.flex.items-center.m-auto.px-18 > .flex-center.inset-0.absolute
 
 @@||namu.wiki/edit$document
 
@@ -408,4 +414,6 @@ www.bomtoon.com##.c-a4.btn-arr-right
 
 twitter.com##.r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao > .r-1udh08x.r-xoduu5.css-1dbjc4n .r-qvutc0.r-bcqeeo.r-1cwl3u0.r-b88u0q.r-1b43r93.r-poiln3.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
 twitter.com##.r-qvutc0.r-1e081e0.r-1k6nrdp.r-1cwl3u0.r-n6v787.r-poiln3.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
+
+kktv01.com##u-chat > iframe
 
