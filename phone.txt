@@ -118,5 +118,5 @@ hanime.tv##.primary-color-hover.align-center.justify-center.flex.hvpab-btn > .hv
 m.youtube.com##span.c4-tabbed-header-modern-metadata-item:nth-of-type(2) > .yt-core-attributed-string
 m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
 
-manatoki287.net##.wr-comment.pull-right.visible-xs.orangered
+manatoki288.net##.wr-comment.pull-right.visible-xs.orangered
 m.youtube.com##.watch-card-metadata-container
