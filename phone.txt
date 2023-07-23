@@ -138,5 +138,5 @@ m.fmkorea.com##span:nth-of-type(4)
 m.fmkorea.com##.clear.btm_area
 m.fmkorea.com##.m.adpost_with_thumbnail.adpost_search.adpost
 m.fmkorea.com##.new_voted_count.btn_img
-.fmkorea.com##.bd_lst_wrp > [src]
+m.fmkorea.com##.bd_lst_wrp > [src]
 
