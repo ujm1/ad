@@ -1,3 +1,8 @@
+manatoki288.net##.wr-comment.pull-right.visible-xs.orangered
+manatoki298.net##.lightgray.fa-comment.fa
+manatoki298.net##.wr-comment.pull-right.visible-xs.orangered > b
+manatoki298.net##.ellipsis.visible-xs.font-12.text-muted.item-details > span
+
 manatoki210.net##div > .row-10.row.basic-banner
 manatoki211.net##div > .row-10.row.basic-banner
 manatoki212.net##div > .row-10.row.basic-banner
@@ -8025,3 +8030,4 @@ kr6.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-sol
 kr7.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
 kr8.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
 kr9.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
+
