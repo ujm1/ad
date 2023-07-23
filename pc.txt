@@ -453,9 +453,6 @@ comic.naver.com##.EpisodeListUser__count--fNEWK
 ! 2023-05-29 https://mlbpark.donga.com
 mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .replycont
 
-! 2023-06-01 https://toonkor218.com
-toonkor218.com##.no-attach.view-head.panel-default.panel.contents > [href="http://ww-ot.com"]
-
 ! 2023-06-04 https://nene02.com
 nene02.com##div.at-side.at-col.col-md-3:nth-of-type(1)
 
