@@ -485,3 +485,17 @@ novelpia.com##.view-like-info
 novelpia.com##.like-btn > span
 novelpia.com##.thumb_s5 > .thumb_s4
 novelpia.com##.epi-comment-cnt
+
+
+
+
+! 2023-07-22 https://gall.dcinside.com
+gall.dcinside.com##.reply_num
+gall.dcinside.com##tr.us-post.ub-content > .gall_count
+gall.dcinside.com##tr.us-post.ub-content > .gall_recommend
+gall.dcinside.com##.morebox.recomuse_y.btn_recommend_box
+gall.dcinside.com##.num_box.fl
+gall.dcinside.com##tr.ub-content > .gall_count
+gall.dcinside.com##.gall_recommend
+
+
