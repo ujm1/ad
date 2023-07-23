@@ -427,3 +427,61 @@ twitter.com##.r-qvutc0.r-1e081e0.r-1k6nrdp.r-1cwl3u0.r-n6v787.r-poiln3.css-16my4
 
 kktv01.com##u-chat > iframe
 
+! 2023-02-12 https://hisoki.me
+hisoki.me##.hidem.star
+
+! 2023-02-14 https://www.bomtoon.com
+www.bomtoon.com##.btn-comment > .bt-comment-count
+
+! 2023-03-25 https://page.kakao.com
+page.kakao.com##.mt-30pxr > div.justify-between.flex
+page.kakao.com##.css-0.font-x-small1.text-el-50.line-clamp-1.text-ellipsis
+
+! 2023-05-08 https://www.fmkorea.com
+www.fmkorea.com##.replyNum
+www.fmkorea.com##.m_no_voted.m_no
+www.fmkorea.com##.fr.side
+www.fmkorea.com##.css3pie.bg_f_f9.fdb_tag
+www.fmkorea.com##th.m_no:nth-of-type(6)
+
+! 2023-05-09 https://noonborayang.tistory.com
+noonborayang.tistory.com##.article_util
+
+! 2023-05-22 https://comic.naver.com
+comic.naver.com##.EpisodeListUser__count--fNEWK
+
+! 2023-05-29 https://mlbpark.donga.com
+mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .replycont
+
+! 2023-06-01 https://toonkor218.com
+toonkor218.com##.no-attach.view-head.panel-default.panel.contents > [href="http://ww-ot.com"]
+
+! 2023-06-04 https://nene02.com
+nene02.com##div.at-side.at-col.col-md-3:nth-of-type(1)
+
+! 2023-06-09 https://www.youtube.com
+www.youtube.com##.ytd-watch-card-compact-video-renderer.style-scope.subtitle
+
+! 2023-06-09 https://www.instagram.com
+www.instagram.com##._a6hd._alvs.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
+
+! 2023-06-15 https://www.bilibili.com
+www.bilibili.com##.item.view
+www.bilibili.com##.item.dm
+www.bilibili.com##.playinfo
+www.bilibili.com##.is-version8.container > div.is-rcmd.bili-video-card > .__scale-wrap.bili-video-card__wrap > .__scale-disable.bili-video-card__info > .bili-video-card__info--right > .bili-video-card__info--bottom > .bili-video-card__info--icon-text
+www.bilibili.com##.video-stat
+www.bilibili.com##.weak-tag.rcmd-tag
+
+! 2023-06-17 https://www.youtube.com
+www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-reel-shelf-renderer.style-scope
+
+! 2023-07-15 https://www.youtube.com
+www.youtube.com###subtitle
+
+! 2023-07-17 https://novelpia.com
+novelpia.com##.user-info
+novelpia.com##.view-like-info
+novelpia.com##.like-btn > span
+novelpia.com##.thumb_s5 > .thumb_s4
+novelpia.com##.epi-comment-cnt
