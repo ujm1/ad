@@ -139,4 +139,5 @@ m.fmkorea.com##.clear.btm_area
 m.fmkorea.com##.m.adpost_with_thumbnail.adpost_search.adpost
 m.fmkorea.com##.new_voted_count.btn_img
 m.fmkorea.com##.bd_lst_wrp > [src]
+m.fmkorea.com##.ad_wrapper.fmad_naver_power_link.fmad_wrapper  
 
