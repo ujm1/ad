@@ -120,3 +120,23 @@ m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attr
 
 manatoki288.net##.wr-comment.pull-right.visible-xs.orangered
 m.youtube.com##.watch-card-metadata-container
+
+m.fmkorea.com##.comment_count
+m.fmkorea.com##.voted_count
+
+! 2023-07-23 https://m.fmkorea.com
+m.fmkorea.com##.responsive_fill.fm_google_a
+m.fmkorea.com##.css3pie.bg_f_f9.fdb_tag
+m.fmkorea.com##.adpost_with_thumbnail.m.adpost_m.adpost_index.adpost
+m.fmkorea.com##.power_link_list_wrapper.fmad_extra_wrapper.fmad_naver_power_link.ad_wrapper.fmad_wrapper
+||static.fmkorea.com/modules/board/skins/sketchbook5_elkha/img/blank.gif$image
+m.fmkorea.com##li.clear > [href="/5996222023"]
+||static.fmkorea.com/modules/board/skins/sketchbook5_elkha/img/blank.gif$image
+m.fmkorea.com##li.clear > [href="/5996220637"]
+m.fmkorea.com##span:nth-of-type(5)
+m.fmkorea.com##span:nth-of-type(4)
+m.fmkorea.com##.clear.btm_area
+m.fmkorea.com##.m.adpost_with_thumbnail.adpost_search.adpost
+m.fmkorea.com##.new_voted_count.btn_img
+
+
