@@ -5,6 +5,9 @@ m.naver.com##.id_comp_now_player.grid1
 m.naver.com##.cp_channel_list
 m.naver.com##div.id_comp_sports.grid1:nth-of-type(6)
 m.naver.com##div.id_comp_sports.grid1 > .comp_sports.comp_common
+m.naver.com##.id_comp_shortform_new.grid1
+n.news.naver.com##.pc_hidden.shortform
+m.naver.com##.MM_SHORTFORM_REFRESH_CARD.native_scroll.scroll-area
 
 toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.top_banner.clearfix.row > table > tbody > tr > td
 toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.mobile-banner.col-md-12
@@ -35,10 +38,6 @@ manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,
 manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##body > div:nth-of-type(4) > div
 manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.trans-bg-black.ellipsis.in-subject > .pull-right
 
-
-marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.w_banner.row
-marumaru256.com,marumaru257.com,marumaru258.com,marumaru259.com,marumaru260.com,marumaru261.com,marumaru262.com,marumaru263.com,marumaru264.com,marumaru265.com##.bottom-navbar
-
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.talk-cont
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com###top-banner
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.popups
@@ -53,18 +52,11 @@ www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44
 www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www
 
 namu.wiki##.has-tooltip
-namu.wiki##.eEoUoAJG
-namu.wiki###c228498821
-namu.wiki##.nA0VsxJ1
-namu.wiki##.kB6doRLP
-namu.wiki##.eKA63clJ
-namu.wiki##.X-WeFFCf
 
 mlbpark.donga.com##.addDsp > center
 mlbpark.donga.com###wrap > .addDsp
 mlbpark.donga.com###wrap > .ad_con01
 mlbpark.donga.com##.mid_con.ad_con01
-mlbpark.donga.com##.text2
 mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .views
 mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .replycont
 
@@ -86,7 +78,6 @@ play-tv.kakao.com#@#.banner_ad
 m.dcinside.com##.dori-box
 m.dcinside.com##.dori-icon-txt
 m.dcinside.com##.dori-icon.sp-icon
-
 m.dcinside.com##.up-add
 
 m.youtube.com##ytm-sentiment-factoid-renderer > ytm-factoid-renderer > .factoid
