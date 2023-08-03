@@ -292,11 +292,6 @@ www.webtoonguide.com###mans-recommend-swiper > .section-mt.section-box.container
 www.webtoonguide.com##div.section-mt.section-box.container:nth-of-type(19)
 www.webtoonguide.com##.header-middle.container
 
-blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##div.mt-2.banner.container:nth-of-type(2)
-blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##.mb-3.mt-3.banner.container
-blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##div.mt-2.banner.container:nth-of-type(3)
-blacktoon177.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon187.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com##.toon-viewer-warp > div.col-12
-
 hiyobi.me##div.xoVcG.sc-kDTinF:nth-of-type(2)
 hiyobi.me##.jSapbz.sc-eCImPb
 hiyobi.me##.bgpIqq.sc-hBUSln
