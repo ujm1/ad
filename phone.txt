@@ -95,8 +95,13 @@ m.youtube.com##ytm-badge-and-byline-renderer:nth-of-type(2)
 m.youtube.com##.slim-video-information-title-and-badges > div > .secondary-text > .yt-core-attributed-string
 m.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
 m.youtube.com##.comments-entry-point-header-text > .yt-core-attributed-string
-
-
+m.youtube.com##span.c4-tabbed-header-modern-metadata-item:nth-of-type(2) > .yt-core-attributed-string
+m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
+m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
+m.youtube.com##.watch-card-metadata-container
+m.youtube.com##.watch-card-metadata-container
+m.youtube.com##span.c4-tabbed-header-modern-metadata-item:nth-of-type(2) > .yt-core-attributed-string
+m.youtube.com##.watch-card-metadata-container
 
 hanime.tv##.mb-5.htv-carousel-container.lazy > div > .noselect.htv-carousel > .htv-carousel__desktop.htv-carousel__scrolls > .htv-carousel__slider > div.card.item.hvc.mb-3.elevation-3 > .no-touch > div > .card__title > .align-center.justify-center.column.flex.hvc__content > .hv-subtitle
 hanime.tv##.mb-5.noselect.htv-carousel > .htv-carousel__desktop.htv-carousel__scrolls > .htv-carousel__slider > div.card.item.hvc.mb-3.elevation-3 > .no-touch > div > .card__title > .align-center.justify-center.column.flex.hvc__content > .hv-subtitle
@@ -106,16 +111,9 @@ hanime.tv##.lazy > div
 hanime.tv##.active.desktop.htvad.mt-5.mb-5
 hanime.tv##.primary-color-hover.align-center.justify-center.flex.hvpab-btn > .hvpabb-text
 
-m.youtube.com##span.c4-tabbed-header-modern-metadata-item:nth-of-type(2) > .yt-core-attributed-string
-m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
-
-manatoki288.net##.wr-comment.pull-right.visible-xs.orangered
-m.youtube.com##.watch-card-metadata-container
 
 m.fmkorea.com##.comment_count
 m.fmkorea.com##.voted_count
-
-! 2023-07-23 https://m.fmkorea.com
 m.fmkorea.com##.responsive_fill.fm_google_a
 m.fmkorea.com##.css3pie.bg_f_f9.fdb_tag
 m.fmkorea.com##.adpost_with_thumbnail.m.adpost_m.adpost_index.adpost
