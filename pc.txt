@@ -483,10 +483,6 @@ novelpia.com##.like-btn > span
 novelpia.com##.thumb_s5 > .thumb_s4
 novelpia.com##.epi-comment-cnt
 
-
-
-
-! 2023-07-22 https://gall.dcinside.com
 gall.dcinside.com##.reply_num
 gall.dcinside.com##tr.us-post.ub-content > .gall_count
 gall.dcinside.com##tr.us-post.ub-content > .gall_recommend
@@ -495,4 +491,53 @@ gall.dcinside.com##.num_box.fl
 gall.dcinside.com##tr.ub-content > .gall_count
 gall.dcinside.com##.gall_recommend
 
+music.youtube.com##.complex-string.ytmusic-player-bar.style-scope.byline > span.yt-formatted-string.style-scope
 
+www.fmkorea.com##.comment_count
+www.fmkorea.com##.new_voted_count.btn_img
+www.fmkorea.com##.voted_count
+
+www.melon.com###frm_searchSong > .songTypeOne.d_song_list.tb_list > table > tbody > tr > td.t_left > .right_none.wrap > .like.btn_icon > .cnt
+www.melon.com###frm_searchAlbum > .songTypeOne.d_song_list.tb_list > table > tbody > tr > td.t_left > .right_none.wrap > .like.btn_icon > .cnt
+www.melon.com##.cnt_view
+www.melon.com##.d_btn.btn_like
+www.melon.com##.like_info
+www.melon.com##.cnt
+
+musicy.kr##.gnb__today
+
+vibe.naver.com##.end_comment
+
+www.melon.com##.show
+www.melon.com##.share
+www.melon.com##.section_cmt
+www.melon.com##.section_intst
+www.melon.com##.d_play_list.dj_songinfo > dl > .wrap_btn
+www.melon.com##.d_cmtpgn
+||cdnimg.melon.co.kr/resource/image/web/mymusic/bul_title.png$image
+www.melon.com##.mt30.section_playlist > .arr.line.title
+www.melon.com##.yfan.d_artist_list.section_playlist
+www.melon.com##.rtcont
+
+music.bugs.co.kr##.sectionPadding.commentsCommon
+music.bugs.co.kr##.like.btnNormal > em
+
+www.melon.com##.d_djcol_list.my_dj.dj_songinfo > dl > .wrap_btn
+
+www.genie.co.kr##.daily-chart.aside-zone
+www.genie.co.kr###emLikeCount
+www.genie.co.kr##.reply_area
+
+ridibooks.com##.metadata_rate
+ridibooks.com##.hidden_for_landscape.star_rate.book_metadata > .RSGBookMetadata_StarRate
+ridibooks.com##.review_input_left
+
+mobikf.ncctvgroup.com###commentics
+
+www.music-flo.com##.music_preview.snackbar_static.snack_bar
+
+hiphople.com##[href="#comment"]
+hiphople.com##span > .ab-point-color
+
+blog.naver.com##.align_center.ssp-adcontent
+blog.naver.com###ssp-adpost
