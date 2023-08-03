@@ -3487,4 +3487,8 @@ kr7.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-sol
 kr8.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
 kr9.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 > .justify-center.flex
 
+11toon1004.com###adssmall3
+11toon1004.com##.idle.scroll-control.viewer-list > .ad400__100.mobile-m
+
+
 
