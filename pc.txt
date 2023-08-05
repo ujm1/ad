@@ -261,6 +261,8 @@ gall.dcinside.com##.ub-writer.gall_writer > .fr
 gall.dcinside.com###wif_adx_banner_wrap
 www.dcinside.com##.dc_logo > [href="https://www.dcinside.com/"]
 www.dcinside.com##.rightbanner
+gall.dcinside.com##.r_dcmedia.content_box
+gall.dcinside.com##.r_recommend.content_box
 
 ! 2022-05-20 https://novelpia.com
 novelpia.com##.s_inv.mobile_hidden .font11 > span
