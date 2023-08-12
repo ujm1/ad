@@ -51,12 +51,10 @@ m.dcinside.com##.dori-icon-txt
 m.dcinside.com##.dori-icon.sp-icon
 m.dcinside.com##.up-add
 
-m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
+m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(1)
 m.youtube.com##ytm-sentiment-factoid-renderer > ytm-factoid-renderer > .factoid
 m.youtube.com##.factoids > ytm-factoid-renderer:nth-of-type(1) > .factoid
-m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
 m.youtube.com##.slim-owner-bylines-modern.slim-owner-bylines > .subhead
-m.youtube.com##.secondary-text > .formatted-string-text
 m.youtube.com##.comments-entry-point-header-text > .formatted-string-text
 m.youtube.com##.secondary-text.c4-tabbed-header-subscriber-count
 m.youtube.com##.subhead
@@ -64,9 +62,6 @@ m.youtube.com##.slim-video-information-title-and-badges > div > .secondary-text 
 m.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
 m.youtube.com##.comments-entry-point-header-text > .yt-core-attributed-string
 m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
-m.youtube.com##.watch-card-metadata-container
-m.youtube.com##.watch-card-metadata-container
-m.youtube.com##span.c4-tabbed-header-modern-metadata-item:nth-of-type(2) > .yt-core-attributed-string
 m.youtube.com##.watch-card-metadata-container
 
 hanime.tv##.mb-5.htv-carousel-container.lazy > div > .noselect.htv-carousel > .htv-carousel__desktop.htv-carousel__scrolls > .htv-carousel__slider > div.card.item.hvc.mb-3.elevation-3 > .no-touch > div > .card__title > .align-center.justify-center.column.flex.hvc__content > .hv-subtitle
