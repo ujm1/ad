@@ -22,35 +22,6 @@ toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonk
 toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.visible-xs.text-center:nth-of-type(9)
 toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.visible-xs.text-center:nth-of-type(7)
 
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###main-banner-view
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.row-15.row:nth-of-type(3)
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###ptsihwrlojdgmvefukqn
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.tab-content
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.nav-tabs.nav
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###id_mbv
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.row-15.row > .board-tail-banner
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net###qhtwnujyolbrdkxifgczsvpem > a[href^="https://manatoki130.net/bbs/linkbn.php"]
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div.col-lg-12.col-md-6.col-sm-6.col-15.col > div
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##article > .row-10.row.basic-banner
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##div > .row-10.row.basic-banner
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.post-info.pull-right .count
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##[href] > span.count
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##body > div:nth-of-type(4) > div
-manatoki170.net,manatoki171.net,manatoki172.net,manatoki173.net,manatoki174.net,manatoki175.net,manatoki176.net,manatoki177.net,manatoki178.net,manatoki179.net##.trans-bg-black.ellipsis.in-subject > .pull-right
-
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.talk-cont
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com###top-banner
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.popups
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400_100:nth-of-type(3)
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400_100:nth-of-type(4)
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400_100:nth-of-type(5)
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.hero__item:nth-of-type(6)
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.j_slideLists.hero__list
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400__100.mobile-m:nth-of-type(3)
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##div.ad400__100.mobile-m:nth-of-type(4)
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www.11toon50.com##.idle.scroll-control.viewer-list > .ad400__100.mobile-m
-www.11toon40.com,www.11toon41.com,www.11toon42.com,www.11toon43.com,www.11toon44.com,www.11toon45.com,www.11toon46.com,www.11toon47.com,www.11toon48.com,www.11toon49.com,www
-
 namu.wiki##.has-tooltip
 
 mlbpark.donga.com##.addDsp > center
@@ -80,23 +51,18 @@ m.dcinside.com##.dori-icon-txt
 m.dcinside.com##.dori-icon.sp-icon
 m.dcinside.com##.up-add
 
+m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
 m.youtube.com##ytm-sentiment-factoid-renderer > ytm-factoid-renderer > .factoid
 m.youtube.com##.factoids > ytm-factoid-renderer:nth-of-type(1) > .factoid
 m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
 m.youtube.com##.slim-owner-bylines-modern.slim-owner-bylines > .subhead
 m.youtube.com##.secondary-text > .formatted-string-text
 m.youtube.com##.comments-entry-point-header-text > .formatted-string-text
-m.youtube.com##div.small-text.compact-media-item-stats:nth-of-type(1)
-m.youtube.com##div.small-text.compact-media-item-stats:nth-of-type(2)
-m.youtube.com##div.small-text.compact-media-item-byline:nth-of-type(2)
 m.youtube.com##.secondary-text.c4-tabbed-header-subscriber-count
 m.youtube.com##.subhead
-m.youtube.com##ytm-badge-and-byline-renderer:nth-of-type(2)
 m.youtube.com##.slim-video-information-title-and-badges > div > .secondary-text > .yt-core-attributed-string
 m.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
 m.youtube.com##.comments-entry-point-header-text > .yt-core-attributed-string
-m.youtube.com##span.c4-tabbed-header-modern-metadata-item:nth-of-type(2) > .yt-core-attributed-string
-m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
 m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
 m.youtube.com##.watch-card-metadata-container
 m.youtube.com##.watch-card-metadata-container
