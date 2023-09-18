@@ -91,3 +91,22 @@ m.fmkorea.com##.new_voted_count.btn_img
 m.fmkorea.com##.bd_lst_wrp > [src]
 m.fmkorea.com##.ad_wrapper.fmad_naver_power_link.fmad_wrapper  
 
+
+m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
+m.youtube.com##.c4-tabbed-header-modern-metadata
+m.youtube.com##p:nth-of-type(3) > .yt-core-attributed-string
+m.youtube.com##.comments-entry-point-header-count > .yt-core-attributed-string
+m.youtube.com##ytm-badge-and-byline-renderer:nth-of-type(2)
+m.youtube.com##ytm-toggle-button-renderer > .yt-spec-button-shape-with-label--is-overlay.yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+m.youtube.com##.icon-shorts_comment > .yt-spec-button-shape-with-label--is-overlay.yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+m.youtube.com##.ytm-comments-entry-point-teaser-content > .yt-core-attributed-string
+m.youtube.com##ytm-comments-entry-point-teaser-renderer
+
+kr2.hasha.in##div.rTQr.sc-cUEOzv
+kr2.hasha.in##.bg-hasha-1-l.rounded.text.p-5 > div > .justify-center.flex > div
+kr2.hasha.in##span:nth-of-type(2)
+kr2.hasha.in##.border-hasha-2\/\[\.7\].border-t
+kr2.hasha.in##.border-hasha-2\/\[\.7\].border-t
+kr2.hasha.in##div.iewsdZ.sc-hiDMwi
+
+
