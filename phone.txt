@@ -24,13 +24,6 @@ toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonk
 
 namu.wiki##.has-tooltip
 
-mlbpark.donga.com##.addDsp > center
-mlbpark.donga.com###wrap > .addDsp
-mlbpark.donga.com###wrap > .ad_con01
-mlbpark.donga.com##.mid_con.ad_con01
-mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .views
-mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .replycont
-
 ! 2022-05-14 http://gltv24.com
 gltv24.com###addon-popup-layer
 gltv24.com##div.xe-widget-wrapper > div > div
