@@ -188,28 +188,6 @@ gltv24.com##.relative
 gltv24.com###bottom
 gltv24.com##.content_widget_bar
 
-! 2022-05-15 https://mlbpark.donga.com
-mlbpark.donga.com##.top_ad
-mlbpark.donga.com###kakao_ad_IINMQ8 > .adfit__html-banner
-mlbpark.donga.com##.big_banner
-mlbpark.donga.com###kakao_ad_VFwhcR > .adfit__html-banner
-mlbpark.donga.com###real_ad_ui_sdonga00001_29820
-mlbpark.donga.com##.ad_asde01
-mlbpark.donga.com###left_ad
-mlbpark.donga.com##.trc_elastic_alternating-thumbnails-a.trc_elastic.trc_spotlight_widget.trc_related_container
-mlbpark.donga.com##.left_cont > .naver_power
-mlbpark.donga.com##.adfit__html-banner
-mlbpark.donga.com###kakao_ad_PacU5y
-mlbpark.donga.com##div:nth-of-type(13)
-mlbpark.donga.com###advertise_naver > .naver_power
-mlbpark.donga.com##.AD_asde01
-mlbpark.donga.com###center_ad01 > .adsbygoogle
-mlbpark.donga.com##div:nth-of-type(12)
-mlbpark.donga.com##.bullpen.lists > li.items > .text > .title > .views
-mlbpark.donga.com##div:nth-of-type(5)
-mlbpark.donga.com##.the_hottest
-mlbpark.donga.com###center_ad02
-mlbpark.donga.com###center_ad01
 
 coocha.co.kr##.group-power-link
 ||googleadservices.com^
