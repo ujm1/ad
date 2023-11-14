@@ -9,18 +9,6 @@ m.naver.com##.id_comp_shortform_new.grid1
 n.news.naver.com##.pc_hidden.shortform
 m.naver.com##.MM_SHORTFORM_REFRESH_CARD.native_scroll.scroll-area
 
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.top_banner.clearfix.row > table > tbody > tr > td
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.mobile-banner.col-md-12
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.section-item-addon > .pull-right
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.text-center.col-md-12 > div
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.bt_view2 > tbody > tr > td > table > tbody > tr > td.bt_btns > .btn2
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.bt_view2 > tbody > tr > td > table > tbody > tr > td.bt_btns > .btn1
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.bnt.bn
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##.view_ma1 > .web_list > tbody
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com###nav_fin
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##[href^="http://po-aa.com/"]
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.visible-xs.text-center:nth-of-type(9)
-toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com##div.visible-xs.text-center:nth-of-type(7)
 
 namu.wiki##.has-tooltip
 
