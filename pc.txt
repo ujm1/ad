@@ -308,14 +308,6 @@ www.kgirls.net##.replyNum
 ! 2022-11-17 https://www.afreecatv.com
 www.afreecatv.com###hotIssueLive
 
-! 2022-11-17 https://hanime.tv
-hanime.tv##.hv-subtitle
-hanime.tv##.landing__content > div > .active.desktop.htvad.mb-5
-hanime.tv##.landing__content > .active.desktop.htvad.mb-5
-hanime.tv##.site-description
-hanime.tv##.has-actions.column.flex.video__item__info > .column.flex.video__item__info__subtitle > div.video__item__info__subtitle__one_liner:nth-of-type(2)
-hanime.tv##div.video__item__info__subtitle__one_liner:nth-of-type(2)
-
 
 ! 2022-11-23 https://www.dcinside.com
 www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
