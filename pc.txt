@@ -508,3 +508,19 @@ hiphople.com##span > .ab-point-color
 
 blog.naver.com##.align_center.ssp-adcontent
 blog.naver.com###ssp-adpost
+
+! 2023-12-04 https://www.naver.com
+www.naver.com##.id_recommend.Layout-module__content_area___b_3TU
+www.naver.com##.id_webtoon.Layout-module__content_area___b_3TU
+
+! 2023-12-04 https://search.shopping.naver.com
+search.shopping.naver.com##.horizontalBookCards_review__gQCkw > em
+search.shopping.naver.com##.bookReview_num__WC_Im
+
+! 2023-11-04 https://twitter.com
+twitter.com##div.r-1h0z5md.r-18u37iz.r-13awgt0.css-1dbjc4n
+
+! 2023-11-09 https://www.bing.com
+www.bing.com##.hpapp
+
+
